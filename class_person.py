@@ -3,4 +3,3 @@ class Person:
     
     def name(self):
         print(self.name)
-
