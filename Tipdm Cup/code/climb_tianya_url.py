@@ -7,7 +7,7 @@ import os
 pages = set()
 n = 0
 k = 100
-def getLinks(url):
+def getLinks(url,file_path):
 	global pages
 	global n
 	html = urlopen(url)    # input tianya URL
@@ -21,17 +21,17 @@ def getLinks(url):
 			if link.group(0) not in pages:   
 				pages.add(link.group(0))
 				print(link.group(0))
-				file_keep = open("D:\\Users\\YeahKun\\Desktop\\TDcup\\data process\\tianya_10000_url.txt", "a")
+				file_keep = open(file_path, "w")
 				file_keep.writelines(link.group(0))
 				file_keep.writelines("\r")
 				file_keep.close()
 				if len(pages) >= 10000:
 					break
-				getLinks(link.group(0))
+				getLinks(link.group(0),path)
 
 		except (HTTPError,ConnectionResetError,URLError,IndexError) as reason:
 			print(reason)
 			continue
 
-
-getLinks("http://bbs.tianya.cn/")
+path = "D:\\Users\\YeahKun\\Desktop\\TDcup\\data process\\tianya_10000_url.txt"
+getLinks("http://bbs.tianya.cn/",path)
