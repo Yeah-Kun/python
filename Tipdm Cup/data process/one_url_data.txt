@@ -1,0 +1,937 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="format=html5; url=http://club.qingdaonews.com/touch/show_1240_409033_1_0.htm" http-equiv="mobile-agent"/>
+<title>网上刷单被骗了钱能追回来吗、怎么追回呢-青青岛社区</title>
+<meta content="网上刷单被骗了钱能追回来吗、怎么追回呢" name="Keywords"/>
+<meta content="信息技术高度发达的21世纪，许多人已经不再满足于网络的娱乐性功能，而是试图发现网络的另一番用处——网络兼职。随着电子商务的普及，网赚行业发展如火如荼，网络购物平台也层出不穷，淘宝网、京东、天猫等购物平台日销售额都在千万以上，占据了消费者购物消费的半壁江山。在这种情况下，一方面实体" name="description"/>
+<link href="../../css/style2014.css" rel="stylesheet" type="text/css"/>
+<link href="style/swfupload/post-min.css" rel="stylesheet"/>
+<link href="style/tuji/thickbox.css" media="screen" rel="stylesheet" type="text/css"/>
+<script src="http://club.qingdaonews.com/script/jquery.min.js" type="text/javascript"></script>
+<script src="script/jq/jquery.cookie.js" type="text/javascript"></script>
+<script charset="gbk" src="script/tuji/thickbox-compressed.js" type="text/javascript"></script>
+<script>
+    var _hmt = _hmt || [];
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "https://hm.baidu.com/hm.js?b2a5868e7ff608741df63084a2be18f4";
+      var s = document.getElementsByTagName("script")[0];
+      s.parentNode.insertBefore(hm, s);
+    })();
+    </script>
+</head>
+<body>
+<!--nav s-->
+<div id="top_nav"><script src="topnav.php?backurl=aHR0cDovL2NsdWIucWluZ2Rhb25ld3MuY29tL3Nob3dBbm5vdW5jZV8xMjQwXzQwOTAzM18xXzAuaHRt"></script></div>
+<!--nav e-->
+<div id="container">
+<div id="topheader">
+<div class="logo"><a href="http://club.qingdaonews.com/"><img alt="青青岛社区" height="49" src="newimg/club_logo.png" title="青青岛社区" width="259"/></a></div>
+<div class="ad70060"><script charset="gb2312" language="JavaScript" src="http://0.up.qingdaonews.com/up/loc/2014-6/uploc1090.js" type="text/javascript"></script></div>
+</div>
+<div class="layer_a">
+<div class="breadcrumb">当前位置： <a href="/">青青岛社区</a> &gt; <a href="/club_entry_1240_5_0_1_0.htm" target="_blank">电商社区</a></div>
+<a href="http://club.qingdaonews.com/showAnnounce_30_3813667_1_0.htm" target="_blank"><img height="40" src="newimg/clubapp_a.png" style="margin-left:10px" width="94"/></a>
+<!--分页符-->
+<div class="go_num_l">
+<div class="go_num"> <a class="h">1</a>到第
+        <input class="go_num_t" name="" type="text"/>
+        页
+        <input class="btn_a goPage" name="" type="button" value="确定"/>
+</div>
+</div>
+<div class="btn_d"> <a class="btn_d_1" href="gentopicall_static.php?board_id=1240&amp;topic_id=409033&amp;Page=1">刷新生成此贴</a><a class="btn_d_2" href="club_entry_1240_5_0_1_0.htm">返回</a> </div>
+</div>
+<!-- 帖子开始 s-->
+<div class="content">
+<div class="layer_l"> <!-- 第一页主贴内容开始 s-->
+<!--用户信息 s-->
+<a name="c1"></a>
+<div class="tit_user"> <strong><a href="http://passport.qingdaonews.com/u/晴天你好呀" target="_blank">晴天你好呀</a></strong>
+<div class="user_data"><span>龙虾级</span><img src="/faces/score/red.gif" title="11级"/><img src="/images/stars1.gif" title="11级"/><img src="/images/stars1.gif" title="11级"/><img src="/images/stars1.gif" title="11级"/><img src="/images/stars1.gif" title="11级"/><img src="/images/stars1.gif" title="11级"/><img src="/images/stars1.gif" title="11级"/><img src="/images/stars1.gif" title="11级"/><img src="/images/stars1.gif" title="11级"/><img src="/images/stars1.gif" title="11级"/></div>
+<!--等级-->
+<div class="user_ico"></div>
+<!--身份-->
+<div class="user_floor">楼主</div>
+<div class="user_msg"> <a class="red" href="http://club.qingdaonews.com/showAnnounce_1240_409033_1_1.htm">只看楼主</a>｜<a href="http://passport.qingdaonews.com/index.php?ly=club&amp;backurl=aHR0cDovL2NsdWIucWluZ2Rhb25ld3MuY29tL3Nob3dBbm5vdW5jZV8xMjQwXzQwOTAzM18xXzAuaHRt">纸条</a>｜ <a href="javascript:setit('晴天你好呀')">回复</a>｜ <a href="javascript:setit_yy('1240','409033','m');">引用</a>｜ <a href="javascript:checklogins();openwin('/ownerEditAnnounce_static.php?board_id=1240&amp;type=0&amp;topic_id=409033&amp;sess=195855c21295c5f051726d7bea94a11f',645,600);">编辑</a> <!--<a href="javascript:window.print()">打印</a>-->
+</div>
+<!--头像-->
+<ul id="user">
+<li> <a href="#"><img height="50" src="http://pic.qingdaonews.com/face.php?uid=8756526&amp;size=middle" width="50"/></a> <span>
+<p class="user_news"><img height="100" src="http://pic.qingdaonews.com/face.php?uid=8756526&amp;size=big" width="100"/> <i class="user_r"> <a class="follow" data-id="8756526" href="javascript:void(0)">[加关注]</a> <a href="http://passport.qingdaonews.com/index.php?ly=club&amp;backurl=aHR0cDovL2NsdWIucWluZ2Rhb25ld3MuY29tL3Nob3dBbm5vdW5jZV8xMjQwXzQwOTAzM18xXzAuaHRt">[发纸条]</a> <a href="http://passport.qingdaonews.com/u/晴天你好呀" target="_blank">[发帖集]</a> <a href="http://passport.qingdaonews.com/u/晴天你好呀" target="_blank">[回帖集]</a> </i> </p>
+</span> </li>
+</ul>
+</div>
+<!--用户信息 e-->
+<!--楼主正文-->
+<div class="layer_c">
+<!--正文 s-->
+<div class="tit">
+<h2>网上刷单被骗了钱能追回来吗、怎么追回呢</h2>
+<p>            人气：<span class="cYellow">5917</span> 回复：<span class="cYellow">3</span> </p>
+</div>
+<div class="text">
+<p></p><p style="line-height:28px;text-indent:nullem;text-align:left"><font face="微软雅黑"><font size="4">信息技术高度发达的21世纪，许多人已经不再满足于网络的娱乐性功能，而是试图发现网络的另一番用处——网络兼职。随着电子商务的普及，网赚行业发展如火如荼，网络购物平台也层出不穷，淘宝网、京东、天猫等购物平台日销售额都在千万以上，占据了消费者购物消费的半壁江山。在这种情况下，一方面实体经济确实收到了打击，而另一方面，也有许多人的确从中获益。</font></font></p><p style="line-height:28px;text-indent:nullem;text-align:left"><font face="微软雅黑"><font size="4">详情咨询QQ792163272<br/><br/>生意做不好，刷单业务会自动找上门<br/>这方面，山东的一位淘宝卖家小张就有类似的经历。2012年上大学的时候，他就开了一家网店。但是网店刚开张，生意不是很好，这个时候一个陌生的神秘业务却找上门来：刷单。根据小张的介绍，“刷单”就是用模拟真实购物的方式，达到提高店铺和单品排名、等级、提高自己店铺和商品展现量的一种手段。刷单还能让更多买家在搜索的时候轻松找到商品或店铺，从而促成购物。说白了，如果某个商家刷单刷得多的话，那么他的商品就可以排到前面。而消费者作为客户，在搜索这个东西时，肯定会是第一眼能看到。对于很多商家而言，真实的生意做不了那么多，就要靠这些虚假刷单来完成。<br/><br/>谁在做刷单？专业的“刷手”已登场</font></font></p><p style="line-height:28px;text-indent:nullem;text-align:left"><font face="微软雅黑"><font size="4">什么样的人在做刷单？用电商的行业术语来说就是“刷手”。随着网络购物的不断发展，很多人开始尝试刷手工作，帮一些有需求的店铺刷信誉、刷销量、刷好评等等。而为了模拟真实的刷单，卖家往往会要求刷手按照真实的网购流程进行操作，并为商品付款，之后卖家再返还刷手所付货款以及支付劳务费。</font></font></p><p style="line-height:28px;text-indent:nullem;text-align:left"><font face="微软雅黑"><font size="4"><br/></font></font></p><p style="line-height:28px;text-indent:nullem;text-align:left"><font face="微软雅黑"><font size="4">想利用业余时间赚点小钱的可以加QQ792163272，告诉你刷单平台网赚兼职的整个流程！一起交流只是为了一起进步。</font></font></p><p style="line-height:28px;text-indent:nullem;text-align:left"><font face="微软雅黑"><font size="4"><br/></font></font></p><div align="left"><font><font face="微软雅黑"><font size="4"><img alt="1491719376" border="0" height="307" id="aimg_6" src="http://www.cyone.com.cn/net/UploadFiles_9570/201411/20141121225125636.jpg" width="450"/></font></font></font></div><font face="微软雅黑"><font size="4"><font style="color:rgb(85, 85, 85)">网友向记者演示刷单流程：快看看好评都是怎么刷出来的<br/>【刷单手段】<br/>    雇“水军”假购物<br/>   熟悉淘宝的人都知道，商家如果想吸引更多的买家进店“浏览”(俗称“赚量”)，必须有更好的排名。排名又跟商家的销量、人气、评价有关。而那些开网店年头比别人短，销量、评价不如其他网店的店主,往往就通过刷单这中**方式来提高销量、人气和评价。<br/>想做兼职的可以联系琉璃子</font><font style="color:rgb(85, 85, 85)">QQ </font><font color="#e53333"><font><strong>792163272</strong></font></font><font style="color:rgb(85, 85, 85)">，工会4万多人，全天在线8000多人，管理规范，任务量大，可以放心刷单赚钱。<br/><br/>记者调查发现，最早的刷单模式是网店雇佣水军假买自家商品。所谓假买，就是拍下一件商品后，水军不用真付款，可选择商家赠送红包支付、代付、远程付款等<br/>多种渠道支付，然后给商家五星好评。随着刷单量的不断膨胀，原本单一的“假成交”刷单模式，还演变成了浏览单、恶意单等多种。所谓恶意单，是指互为竞争对<br/>手的商家之间，会私下雇佣刷单公司，去购买另一家的商品，然后给出差评，拉低对方评价。<br/><br/>在淘宝商家圈子里，有句话很出名，“刷单是找死，不刷是等死。”<br/><br/>【刷客人群】<br/><br/>多为兼职大学生<br/><br/>刷单公司雇佣的“水军”就是刷客。调查中记者发现，约有80%的刷客为兼职人群，在校大学生、全职妈妈等群体。<br/><br/>在百度上搜索“刷客”，跳出来几千条招聘信息，大多以“动动手指头就能日进斗金”、“足不出户数钱数到手软”等为噱头。这类招聘有全职、兼职两种，全职招聘一般月工资2000—4000元保底，然后刷一单3—15元”；兼职则随时可赚外快。<br/><br/>记者暗访中加入了几个刷客群，其中一个群里一位叫“侠义兄弟”的网友，是安徽工业大学某专业大二学生，聊天中他告诉记者，自己寝室4个人，有3个都在做刷单。“一个月好的能赚2000多元。”<br/><br/><br/>有个高级群里的两位网友，堪称是刷客们的“偶像”。一名叫“先锋”的网友，2014年毕业于巢湖学院体育系，目前已靠刷单收入在杭州买了套房子。记者加<br/>了“先锋”QQ，这位“大神”告诉记者，他从大一就开始兼职做刷单，“每天翘课泡在电脑上”，在刷客刚刚兴起的头几年，他每个月能赚到几千元，“后来名气<br/>大了，开始做主持人，直到最后坐到了会长位置，这在刷单公司级别已经非常高了，完全不用自己刷单，一个月能赚上万。”<br/><br/>【怎样成为刷客】<br/><br/>入门：下载QT进入房间有专人接待<br/><br/>一名叫“追梦”男网友告诉记者，各刷单公司做刷单，基本上都用QT语音系统。他让记者开通QT，登录后，记者在“追梦”引导下，进入了“平台接待”房间，找<br/><br/><br/>到了房间接待“格格”。“格格”给记者解释了此平台的性质。“我们是一个为淘宝商家提升信誉和销量的平台，每单佣金在3—15元不等，做单子刷客不用垫<br/>付1分钱，说白了就是用卖家的钱，买他自己的东西，为他提升销量和好评。”根据“格格”介绍，这个名为“新世纪”的刷单公司，有普通会员、高级会员2种，入会费分别为99元、199，其中，普通会员<br/><br/>只能做最基础的“刷单”，高级会员除刷单外，还有接待、培训、主持等岗位.至尊会员享受的特权则更多。<br/><br/>交费：交199元成刷客公司高级会员<br/><br/><br/>记者告诉“格格”，想交199元当高级会员。“格格”称，“钱不是交给我，你要专门交给收款的人。”随后，艾婷给了一个名为“*建”的人的支付宝账户，<br/>记者往里面转入199元后，又按要求，将转账成功截图发给了“格格”。收到截图后，记者才算正式成为了这家公司的刷客。宠儿要求记者将个人昵称改成统一的<br/>，说是为了方便统一管理。<br/><br/>培训：20分钟教学视频介绍如何刷单<br/><br/>随后进入了培训阶段。此时，接待记者的又换成了一名为“雨落”的培训师。培训前，“雨落”发给记者一份文档，上面有姓名、手机号等信息，都需要如实填写。并要求记者把昵称改，这个昵称相当于在此平台里的身份证。<br/><br/>此后，记者进入了正式培训阶段。<br/>“雨落”给记者发来一段刷单教学视频，时长20分钟，内容是该平台自制的，里面详细介绍了刷单的步骤和注意事项。看完视频后，记者还要在“雨落”指导下，一步步进行一次模拟做单。培训结束时，“雨落”还提醒记者，做单时任何需要自己垫钱的单子，都是骗局。<br/><br/><br/>记者成功通过了“雨落”的培训关。对于那些试图靠刷单来赚钱的刷客们来说，接下来就是激动人心的刷单环节了。记者继续暗访发现，一家靠刷单提升销量和人<br/>气的服饰网店，竟然做到了淘宝搜索榜第一的位置。为了在茫茫买家中区分出哪些是“刷客”，和刷单公司合作的淘宝商家，大多会和放单主持人约定暗语。为了逃<br/>避淘宝监管，刷客去目标网店，甚至要在其左右店家佯逛一圈，再进其店内“交易”。黑幕之深令人震惊。<br/></font></font></font><div align="left"><font style="color:rgb(85, 85, 85)"><font face="微软雅黑"><font size="4"><br/></font></font></font></div><div align="left"><p style="line-height:28px;text-indent:nullem;text-align:left"><font style="color:rgb(85, 85, 85)"><font face="微软雅黑"><font size="4"><strong>网上刷单挣钱好做吗/需要怎么做/淘宝刷单赚钱是真的吗</strong><br/></font></font></font></p><div align="left"><font style="color:rgb(85, 85, 85)"><font color="#e53333"><strong><font face="微软雅黑"><font size="4">1.淘宝兼职刷单高佣金高报酬要警惕</font></font></strong></font></font></div><div align="left"><font style="color:rgb(85, 85, 85)"><font face="微软雅黑"><font size="4">对于兼职来说，大家要记住天上不会掉馅饼的。一般用人单位都是急需要人，才会临时要兼职，因为兼职的成本比正式员工低。所以网上兼职赚钱日结谨防上当受骗，一般报酬高的吓人，或者超出了行业标准的，大家不要相信。</font></font></font></div><div align="left"><font style="color:rgb(85, 85, 85)"><font color="#e53333"><strong><font face="微软雅黑"><font size="4">2.淘宝兼职刷单网赚要小心</font></font></strong></font></font></div><div align="left"><font style="color:rgb(85, 85, 85)"><font face="微软雅黑"><font size="4">淘宝作为最大的网购平台，其实有叁分之一的销量都是刷出来的，所以这就引发出一系列的淘宝刷单兼职的信息，导致很 多人上当。他们一般发布的信息是工作任务主要是在家办公，每天在线2小时以上，职任职资格:任职资格:有计算机或者手机会打字，就可以。低门槛高收入导致很多人掉坑。他们一般是中介，让你先交押金，然后卖家也给他押金，他帮忙卖家放单，让买家虚拟下单，完成销量。这些一个才几毛一两元一单，所以很难回本，大家要小心。</font></font></font></div><p style="line-height:28px;text-indent:nullem;text-align:left"><font style="color:rgb(85, 85, 85)"><font face="微软雅黑"><font size="4">OK,接着来说说大家最关心的问题：淘宝刷远程单一天能赚多少钱?商家远程付款安全有风险吗？</font></font></font></p><p style="line-height:28px;text-indent:nullem;text-align:left"><font style="color:rgb(85, 85, 85)"><font face="微软雅黑"><font size="4">正规的淘宝刷单兼职是采取红包付款或者是远程付款的，就是我们会给你发与商品价格等额的红包，你领取红包后再用红包支付，而你自己的一分钱都不需要用到！远程就是你拍下宝贝，加商家QQ商家控制你的电脑用他的银行卡来付款的。不需要你的支付宝和银行卡有一分钱，也用不到你的卡，所以说是完全没有风险很安全的，你可以亲自看商家操作完成的。</font></font></font></p><p style="line-height:28px;text-indent:nullem;text-align:left"><font style="color:rgb(85, 85, 85)"><font face="微软雅黑"><font size="4"> QQ咨询：792163272</font></font></font></p><br/><p style="line-height:28px;text-indent:nullem;text-align:left"><font style="color:rgb(85, 85, 85)"><font face="微软雅黑"><font size="4"><img alt="1491719376" border="0" id="aimg_2" src="http://www.fjii.com/uploads/151005/1-15100512311J00.jpg"/></font></font></font></p><p style="line-height:28px;text-indent:nullem;text-align:left"><font style="color:rgb(56, 56, 56)"><font face="微软雅黑"><font size="4">想淘宝刷单挣钱结果被骗近8000元淘宝刷单兼职靠谱吗</font></font></font></p><p style="line-height:28px;text-indent:nullem;text-align:left"><font style="color:rgb(56, 56, 56)"><font face="微软雅黑"><font size="4">   芳芳：我被骗了。</font></font></font></p><p style="line-height:28px;text-indent:nullem;text-align:left"><font style="color:rgb(56, 56, 56)"><font face="微软雅黑"><font size="4">   台州晚报：被谁骗了?</font></font></font></p><p style="line-height:28px;text-indent:nullem;text-align:left"><font style="color:rgb(56, 56, 56)"><font face="微软雅黑"><font size="4">   芳芳：那天上网，无意中看到一个老乡群上发了淘宝刷单，刷一单手续费能挣不少，而且门槛低，说支付宝里有300元左右的活动资金就可以了。</font></font></font></p><p style="line-height:28px;text-indent:nullem;text-align:left"><font style="color:rgb(56, 56, 56)"><font face="微软雅黑"><font size="4">   台州晚报：你刷单了?</font></font></font></p><p style="line-height:28px;text-indent:nullem;text-align:left"><font style="color:rgb(56, 56, 56)"><font face="微软雅黑"><font size="4">   芳芳：我在一家商场卖衣服，奖金是跟业绩挂钩的，现在生意不好做，工资很低，希望兼职挣点外快，买些衣服、化妆品，把自己打扮得漂漂亮亮的。去年11月30日那天，我周末休息在家，就找客服做单了。</font></font></font></p><p style="line-height:28px;text-indent:nullem;text-align:left"><font style="color:rgb(56, 56, 56)"><font face="微软雅黑"><font size="4">   台州晚报：300元?</font></font></font></p><p style="line-height:28px;text-indent:nullem;text-align:left"><font style="color:rgb(56, 56, 56)"><font face="微软雅黑"><font size="4">   芳芳：当时她说3单一结，我没理解就刷了第一单300元，刷完后截图给了客服，等着给我返钱。但是下午，她又发我第二个任务，当时没多想就又刷了第二单540元，第三单1620元，心想着三单做完了就可以把钱返回来了。</font></font></font></p><p style="line-height:28px;text-indent:nullem;text-align:left"><font style="color:rgb(56, 56, 56)"><font face="微软雅黑"><font size="4">   台州晚报：钱返回了吗?</font></font></font></p><p style="line-height:28px;text-indent:nullem;text-align:left"><font style="color:rgb(56, 56, 56)"><font face="微软雅黑"><font size="4">   芳芳：没想到她又发了一单过来，说这是结算申请单。可是我没钱了，客服说如果这个不弄，之前的钱就不好拿。</font></font></font></p><p style="line-height:28px;text-indent:nullem;text-align:left"><font style="color:rgb(56, 56, 56)"><font face="微软雅黑"><font size="4">   台州晚报：有点不太对劲哦!</font></font></font></p><p style="line-height:28px;text-indent:nullem;text-align:left"><font style="color:rgb(56, 56, 56)"><font face="微软雅黑"><font size="4">   芳芳：我当时根本没想到受骗上当了，一听钱拿不回来，心里紧张了。赶紧问同事借了5000元，钱一到账又刷了2484元。</font></font></font></p><p style="line-height:28px;text-indent:nullem;text-align:left"><font style="color:rgb(56, 56, 56)"><font face="微软雅黑"><font size="4">   台州晚报：又砸进去2484元?</font></font></font></p><p style="line-height:28px;text-indent:nullem;text-align:left"><font style="color:rgb(56, 56, 56)"><font face="微软雅黑"><font size="4">   芳芳：事情还没完，客服说我这个超时了，要重新支付。我当时脑子真搭牢了，啥都没想，立马又支付了2484元。然后我截图给客服，后来过了一会，她给我截图说钱返不出来，还要再支付一笔。</font></font></font></p><p style="line-height:28px;text-indent:nullem;text-align:left"><font style="color:rgb(56, 56, 56)"><font face="微软雅黑"><font size="4">   台州晚报：这次要多少钱?</font></font></font></p><p style="line-height:28px;text-indent:nullem;text-align:left"><font style="color:rgb(56, 56, 56)"><font face="微软雅黑"><font size="4">   芳芳：5000多元，这下我才感觉有点不对劲了。就说我没钱了，你把之前的钱退还给我吧，客服说那就只能等两个月自动退回。我很慌张，给他们的经理打电话，他的回复是两种选择：一种是把5000多元付了可以直接拿到之前的钱，另一种是等2个月自动返回。</font></font></font></p><p style="line-height:28px;text-indent:nullem;text-align:left"><font style="color:rgb(56, 56, 56)"><font face="微软雅黑"><font size="4">   台州晚报：套牢了!</font></font></font></p><p style="line-height:28px;text-indent:nullem;text-align:left"><font style="color:rgb(56, 56, 56)"><font face="微软雅黑"><font size="4">   芳芳：这个时候，我才跟朋友说明了这事，她第一时间反应过来说我被骗了。现在我已经报警了。想通过小Q提醒一下，其他网友不要再上当了。</font></font></font></p><p style="line-height:28px;text-indent:nullem;text-align:left"><font style="color:rgb(56, 56, 56)"><font face="微软雅黑"><font size="4">   &gt;&gt;&gt;案件分析</font></font></font></p><p style="line-height:28px;text-indent:nullem;text-align:left"><font style="color:rgb(56, 56, 56)"><font face="微软雅黑"><font size="4">   1、侵害目标：主要是针对喜欢上网又图简单的年轻群体。此类案件的受害人多数抱着工作轻松，来钱快速的目标寻找网络兼职，其中部分还有类似网上兼职赚钱的经历。</font></font></font></p><p style="line-height:28px;text-indent:nullem;text-align:left"><font style="color:rgb(56, 56, 56)"><font face="微软雅黑"><font size="4">   2、作案手段：犯罪嫌疑人利用名气较大的招聘网站发布虚假招聘信息，以高额回报为诱饵，结合套用真实刷单兼职的工作流程减少受害人防备心理。等刷单成功后，以各种系统问题，网络问题等借口，要求受害人多尝试，在尝试的每一次中骗取受害人钱财，最终达到骗钱目的。</font></font></font></p><p style="line-height:28px;text-indent:nullem;text-align:left"><font style="color:rgb(56, 56, 56)"><font face="微软雅黑"><font size="4">   <img alt="1491719376" border="0" id="aimg_20" src="http://film.szonline.net/upload/images/2016/3/2164812922.jpg"/></font></font></font></p><div align="left"><font style="color:rgb(85, 85, 85)"><font color="#e53333"><strong><font face="微软雅黑"><font size="4"> 网上刷单挣钱好做吗/需要怎么做/淘宝刷单赚钱是真的吗【从事淘宝兼职5不做】</font></font></strong></font></font></div><div align="left"><font style="color:rgb(85, 85, 85)"><font face="微软雅黑"><font size="4">   <font color="#000"><strong> 1.虚拟单不做</strong></font><font color="#000"><strong>。淘宝购物规则虚拟单是无法退货退款的，如果遇到这种的基本都是骗子！</strong></font></font></font></font></div><div align="left"><font style="color:rgb(85, 85, 85)"><font face="微软雅黑"><font size="4"> </font></font></font></div><div align="left"><font style="color:rgb(85, 85, 85)"><font face="微软雅黑"><font size="4"><font color="#000"><strong>    2.直接发送链接的不做</strong></font><font color="#000"><strong>。这种直接发送链接的都是骗子，仿造正规购物商城页面，让你输入自己的个人信息，然后盗取你的钱财。</strong></font></font></font></font></div><div align="left"><font style="color:rgb(85, 85, 85)"><font face="微软雅黑"><font size="4"> </font></font></font></div><div align="left"><font style="color:rgb(85, 85, 85)"><font face="微软雅黑"><font size="4"><font color="#000"><strong>    3.免费的不做</strong></font><font color="#000"><strong>。大家一定要记住天下没有免费的午餐，不会掉什么馅饼让你来吃，要是真有免费的，那么平台雇佣了大量的工作人员，他们也是来赚钱养家糊口的，没有义务提供无偿服务。马云也说了，免费是世界上最昂贵的东西。</strong></font></font></font></font></div><div align="left"><font style="color:rgb(85, 85, 85)"><font face="微软雅黑"><font size="4"> </font></font></font></div><div align="left"><font style="color:rgb(85, 85, 85)"><font face="微软雅黑"><font size="4"><font color="#000"><strong>  4.需要流动资金的不做</strong></font><font color="#000"><strong>。一般正规平台都是以远程单、代付单等品种为主，也有小额垫付单，但是一些骗子会让你垫付上千元的流动资金，然后把本金和佣金一起给你，这种基本都是骗子。</strong></font></font></font></font></div><div align="left"><font style="color:rgb(85, 85, 85)"><font face="微软雅黑"><font size="4"> </font></font></font></div><div align="left"><font style="color:rgb(85, 85, 85)"><font face="微软雅黑"><font size="4"><font color="#000"><strong>    5.高佣金单不做</strong></font><strong><font color="#000">。一些骗子会打着佣金几十块，几百块的旗号行骗，如果真有这种好事，那中国十几亿人口为什么都还上班，都来干这个得了</font></strong>。</font></font></font></div><div align="left"><font style="color:rgb(85, 85, 85)"><font face="微软雅黑"><font size="4"> </font></font></font></div><div align="left"><font style="color:rgb(85, 85, 85)"><font face="微软雅黑"><font size="4">  <strong> <img alt="1491719376" border="0" id="aimg_5" src="http://www.hao360.cn/attachment/editor/201602/1456475536mdx15.jpg"/></strong></font></font></font></div><font face="微软雅黑"><font size="4"><br/></font></font><p style="line-height:28px;text-indent:nullem;text-align:left"><font style="color:rgb(85, 85, 85)"><font face="微软雅黑"><font size="4"><br/></font></font></font></p><p style="line-height:28px;text-indent:nullem;text-align:left"><font style="color:rgb(85, 85, 85)"><font face="微软雅黑"><font size="4">现在网上做淘宝刷单的人不在少数，特别是一些电脑族和大学生，都想在空余时间赚取一点金钱。也正是由于市场的需要，淘宝兼职刷客也出现了，什么是刷客?所谓的刷客即是指帮助淘宝卖家提升信誉度，从中获取利润的人。说得白一点就是淘宝卖家请“托”，但是所有平台都要交会费，很多人想知道是真的吗？入会有什么要求没有？我来告诉你真相，正规淘宝刷单兼职咨询真心想要做兼职加我QQ792163272了解详情.不用资金，安全靠谱。网上如此多的is语音刷单公会哪个好呢？想踏踏实实做淘宝刷单兼职赚个零用钱的联系咨询了解。</font></font></font></p><p style="line-height:28px;text-indent:nullem;text-align:left"><font style="color:rgb(85, 85, 85)"><font face="微软雅黑"><font size="4"> </font></font></font></p><p style="line-height:28px;text-indent:nullem;text-align:left"><font style="color:rgb(85, 85, 85)"><font face="微软雅黑"><font size="4"><strong>网上淘宝兼职靠谱吗？</strong></font></font></font></p><p style="line-height:28px;text-indent:nullem;text-align:left"><font style="color:rgb(85, 85, 85)"><font face="微软雅黑"><font size="4"> </font></font></font></p><p style="line-height:28px;text-indent:nullem;text-align:left"><font style="color:rgb(85, 85, 85)"><font face="微软雅黑"><font size="4">1其实区分一个事物的真假并不难，难的是一个人的心态，对事物的看法，许许多多上当受骗的小伙伴都是输在了起跑线，输给了自己，从而导致上当受骗。</font></font></font></p><p style="line-height:28px;text-indent:nullem;text-align:left"><font style="color:rgb(85, 85, 85)"><font face="微软雅黑"><font size="4"> </font></font></font></p><p style="line-height:28px;text-indent:nullem;text-align:left"><font style="color:rgb(85, 85, 85)"><font face="微软雅黑"><font size="4">2从古至今，万物相生相克，任何事都有正反两个方面，就拿真与假来说，没真哪来假，所以看待事情不能只看表面，而是看其是否符合一个事物的标准，就拿兼职来说，如果兼职真能比全职赚的还多，轻轻松松就能日赚几百的话，谁还去上班啊。</font></font></font></p><p style="line-height:28px;text-indent:nullem;text-align:left"><font style="color:rgb(85, 85, 85)"><font face="微软雅黑"><font size="4"> </font></font></font></p><p style="line-height:28px;text-indent:nullem;text-align:left"><font style="color:rgb(85, 85, 85)"><font face="微软雅黑"><font size="4">3一个正规的兼职平台，首先他不是个人，而是一个团体。更不会需要会员自己垫付本金来做任务，尤其是虚拟的商品，而是采用红包或者远程来支付，整个过程跟正常买东西没什么区别。</font></font></font></p><p style="line-height:28px;text-indent:nullem;text-align:left"><font style="color:rgb(85, 85, 85)"><font face="微软雅黑"><font size="4"> </font></font></font></p><p style="line-height:28px;text-indent:nullem;text-align:left"><font style="color:rgb(85, 85, 85)"><font face="微软雅黑"><font size="4">4而YY语音正是这样的一个平台，无需任何的流动资金，都是用红包和远程来支付，真正达到了零投入，零风险。不会像骗子一样需要用自己的钱来支付，而且还是发链接或者购买虚拟商品，因为虚拟商品是没法退货退款的。所以小编认为QT语音招聘达到了一个正规平台的水准。</font></font></font></p><p style="line-height:28px;text-indent:nullem;text-align:left"><font style="color:rgb(85, 85, 85)"><font face="微软雅黑"><font size="4"> </font></font></font></p><p style="line-height:28px;text-indent:nullem;text-align:left"><font style="color:rgb(85, 85, 85)"><font face="微软雅黑"><font size="4"><strong>淘宝兼职能赚到钱吗？</strong></font></font></font></p><p style="line-height:28px;text-indent:nullem;text-align:left"><font style="color:rgb(85, 85, 85)"><font face="微软雅黑"><font size="4"> </font></font></font></p><p style="line-height:28px;text-indent:nullem;text-align:left"><font style="color:rgb(85, 85, 85)"><font face="微软雅黑"><font size="4">有句话说“十个淘宝九个刷”，淘宝上刷单的严重程度可想而知。不过这分明是一种欺诈消费者的手段，为什么还能如此盛行？淘宝刷单可以看作一种营销行为</font></font></font></p><p style="line-height:28px;text-indent:nullem;text-align:left"><font style="color:rgb(85, 85, 85)"><font face="微软雅黑"><font size="4"> </font></font></font></p><p style="line-height:28px;text-indent:nullem;text-align:left"><font style="color:rgb(85, 85, 85)"><font face="微软雅黑"><font size="4">淘宝刷单是指淘宝店铺为了获得单品或店铺较好的淘宝搜索排名而采取的作弊行为，一般可分为单品刷销量为做爆款等做准备和刷信誉以提高店铺整体信誉度，方式一般为销售作假</font></font></font></p><p style="line-height:28px;text-indent:nullem;text-align:left"><font style="color:rgb(85, 85, 85)"><font face="微软雅黑"><font size="4"> </font></font></font></p><p style="line-height:28px;text-indent:nullem;text-align:left"><font style="color:rgb(85, 85, 85)"><font face="微软雅黑"><font size="4">淘宝刷单一方面给淘宝店铺提供了一条快速提升店铺信誉的捷径，另一边也给许多网络求职者一份不错的兼职工作。</font></font></font></p><p style="line-height:28px;text-indent:nullem;text-align:left"><font style="color:rgb(85, 85, 85)"><font face="微软雅黑"><font size="4"> </font></font></font></p><p style="line-height:28px;text-indent:nullem;text-align:left"><font style="color:rgb(85, 85, 85)"><font face="微软雅黑"><font size="4"><strong>淘宝刷单兼职有哪些要求呢？</strong></font></font></font></p><p style="line-height:28px;text-indent:nullem;text-align:left"><font style="color:rgb(85, 85, 85)"><font face="微软雅黑"><font size="4"> </font></font></font></p><p style="line-height:28px;text-indent:nullem;text-align:left"><font style="color:rgb(85, 85, 85)"><font face="微软雅黑"><font size="4">淘宝刷单其实跟正常的网购没有什么区别，只是在拍下单后不需要自己付款罢了。所以，淘宝刷单兼职对刷手们的职业要求是比较低的，对于网络新手来说也是极其简单的。</font></font></font></p><p style="line-height:28px;text-indent:nullem;text-align:left"><font style="color:rgb(85, 85, 85)"><font face="微软雅黑"><font size="4"> </font></font></font></p><p style="line-height:28px;text-indent:nullem;text-align:left"><font style="color:rgb(85, 85, 85)"><font face="微软雅黑"><font size="4"><strong>工作地点有限制吗？</strong></font></font></font></p><p style="line-height:28px;text-indent:nullem;text-align:left"><font style="color:rgb(85, 85, 85)"><font face="微软雅黑"><font size="4"> </font></font></font></p><p style="line-height:28px;text-indent:nullem;text-align:left"><font style="color:rgb(85, 85, 85)"><font face="微软雅黑"><font size="4">淘宝刷单是份网络兼职，它跟传统意义上的兼职如服务员、发单员等是不一样的，即它没有固定的时间和地点，你只需拥有一台电脑，能够上网拍单，就可以了。无论你是在寝室还是在家里都可以，工作时间也比较随意。</font></font></font></p><p style="line-height:28px;text-indent:nullem;text-align:left"><font style="color:rgb(85, 85, 85)"><font face="微软雅黑"><font size="4"> </font></font></font></p><p style="line-height:28px;text-indent:nullem;text-align:left"><font style="color:rgb(85, 85, 85)"><font face="微软雅黑"><font size="4"><strong>佣金多少呢？怎么结算？</strong></font></font></font></p><p style="line-height:28px;text-indent:nullem;text-align:left"><font style="color:rgb(85, 85, 85)"><font face="微软雅黑"><font size="4"> </font></font></font></p><p style="line-height:28px;text-indent:nullem;text-align:left"><font style="color:rgb(85, 85, 85)"><font face="微软雅黑"><font size="4">正常的单子，一单佣金最低5元，多的有十几元。一单下来大概要二十分钟左右，算下来一个小时做三单的话，也在二十左右。</font></font></font></p><p style="line-height:28px;text-indent:nullem;text-align:left"><font style="color:rgb(85, 85, 85)"><font face="微软雅黑"><font size="4"> </font></font></font></p><p style="line-height:28px;text-indent:nullem;text-align:left"><font style="color:rgb(85, 85, 85)"><font face="微软雅黑"><font size="4">佣金结算是采用支付宝支付的，当天单当天结。支付宝不涉及到银行私人信息，而且省去了许多繁琐的过程，比较快捷方便。所以，新手们在加入兼职的时候，一定要申请一个支付宝账号用来收取佣金。</font></font></font></p><p style="line-height:28px;text-indent:nullem;text-align:left"><font style="color:rgb(85, 85, 85)"><font face="微软雅黑"><font size="4"> </font></font></font></p><p style="line-height:28px;text-indent:nullem;text-align:left"><font style="color:rgb(85, 85, 85)"><font face="微软雅黑"><font size="4">QQ咨询：792163272</font></font></font></p></div><div align="left"><font face="微软雅黑"><font size="4"><font color="#e53333"><font><strong><br/></strong></font></font></font></font></div>
+</div>
+<!--正文 e-->
+<div class="p20">
+<!--打赏 -->
+<div class=" s_gold mb20">
+<div class="tit_g"><a href="http://passport.qingdaonews.com/index.php?ly=club&amp;backurl=aHR0cDovL2NsdWIucWluZ2Rhb25ld3MuY29tL3Nob3dBbm5vdW5jZV8xMjQwXzQwOTAzM18xXzAuaHRt">打赏</a>TA共获得： 金币：<span class="cYellow" id="givedGold">0</span>枚</div>
+<div class="tit_g_list">               还没人打赏
+               </div>
+</div>
+<!--相关链接 s-->
+<!--相关链接 e-->
+<div class="tool mb20">
+<div class="baidu"> <strong class="fen">分享给好友</strong>
+<div class="bdsharebuttonbox"><a class="bds_more" data-cmd="more" href="#"></a><a class="bds_weixin" data-cmd="weixin" href="#" title="分享到微信"></a><a class="bds_tsina" data-cmd="tsina" href="#" title="分享到新浪微博"></a><a class="bds_tqq" data-cmd="tqq" href="#" title="分享到腾讯微博"></a><a class="bds_qzone" data-cmd="qzone" href="#" title="分享到QQ空间"></a><a class="bds_renren" data-cmd="renren" href="#" title="分享到人人网"></a></div>
+<script>
+                            window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"1","bdSize":"24"},"share":{},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["weixin","tsina","tqq","qzone","renren"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];
+                        </script>
+</div>
+<div class="l_weibo"><a href="intf/genTopicForCWB.php?board_id=1240&amp;topic_id=409033&amp;title=网上刷单被骗了钱能追回来吗、怎么追回呢&amp;desc=我分享了网友晴天你好呀的文章：网上刷单被骗了钱能追回来吗、怎么追回呢 信息技术高度发达的21世纪，许多人已经不再满足于网络的娱乐性功能，而是试图发现网络的另一番用处——网络兼职。随着电子商务的普&amp;width=440" target="_blank">生成长微博</a></div>
+</div>
+<!--签名 s-->
+<div class="layer_b">
+<div class="signa"> </div>
+</div>
+<!--签名 e-->
+</div>
+<div class="article_foot"> <span>2016-03-09 17:44:52 来自青青岛社区</span><a href="javascript:setit('晴天你好呀')">回复</a> | <a href="javascript:setit_yy('1240','409033','m');">引用</a> | <a href="javascript:checklogins();openwin('/ownerEditAnnounce_static.php?board_id=1240&amp;type=0&amp;topic_id=409033&amp;sess=b69278808f17e3882fd215602cec0f57',645,600);">编辑</a> | <a href="javascript:openwin('/reportAnnounce.php?board_id=1240&amp;type=0&amp;topic_id=409033&amp;parent_id=409033&amp;title=网上刷单被骗了钱能追回来吗、怎么追回呢&amp;topic_author=晴天你好呀',645,386);">举报</a> </div>
+</div>
+<!--楼主正文-->
+<!--板块QQ群及信息 s -->
+<!--板块QQ群及信息 e-->
+<!-- 第一页主贴内容结束 e-->
+<!-- 推荐代码 s-->
+<div class="m-box-1"> <strong class="m-tt-1">猜你喜欢</strong>
+<div class="m-lst-1">
+<ul>
+<li><a data-bid="2" data-tid="5847037" href="http://club.qingdaonews.com/showAnnounce_2_5847037_1_0.htm">
+<img src="http://pic.qingdaonews.com/p/club/2017/04/oriphoto/2017040607384053896.jpg"/>
+<span>权威发布！2017年青岛中小学幼儿园招生政策出炉</span>
+</a></li> <li><a data-bid="2" data-tid="5847032" href="http://club.qingdaonews.com/showAnnounce_2_5847032_1_0.htm">
+<img src="http://pic.qingdaonews.com/p/club/2017/04/oriphoto/2017040607375922467.jpg"/>
+<span>无牌摩托车被查 驾驶员抓住交警大腿狠咬一口</span>
+</a></li> <li><a data-bid="2" data-tid="5846853" href="http://club.qingdaonews.com/showAnnounce_2_5846853_1_0.htm">
+<img src="http://pic.qingdaonews.com/p/club/2017/04/oriphoto/2017040501574143365.jpg"/>
+<span>女子闽江路当街拦车索要一毛钱 不给就打砸车</span>
+</a></li> <li><a data-bid="2" data-tid="5846851" href="http://club.qingdaonews.com/showAnnounce_2_5846851_1_0.htm">
+<img src="http://pic.qingdaonews.com/p/club/2017/04/oriphoto/2017040501571059547.jpg"/>
+<span>青岛宝贝回家矿泉已推半年 一个孩子都没找到</span>
+</a></li> <li><a data-bid="2" data-tid="5846852" href="http://club.qingdaonews.com/showAnnounce_2_5846852_1_0.htm">
+<img src="http://pic.qingdaonews.com/p/club/2017/04/oriphoto/2017040501565188404.jpg"/>
+<span>市民想移民被难住 东奔西跑无犯罪证明真难开</span>
+</a></li> </ul>
+</div>
+<div class="m-lst-2">
+<ul>
+<li><a href="http://club.qingdaonews.com/showAnnounce_2_5847034_1_0.htm">方便了 青岛市内三区不动产交易涉税业务同城通办</a></li>
+<li><a href="http://club.qingdaonews.com/showAnnounce_2_5847036_1_0.htm">地铁二号线东段今年开通！未来五年开通8条线路</a></li>
+<li><a href="http://club.qingdaonews.com/showAnnounce_2_5847033_1_0.htm">八大关现李鬼收费员 半天收450块钱记满小本被行拘</a></li>
+<li><a href="http://club.qingdaonews.com/showAnnounce_2_5846936_1_0.htm">新政之后买房更要擦亮眼 看青岛四大成功崛起的片区</a></li>
+<li><a href="http://club.qingdaonews.com/showAnnounce_2_5846847_1_0.htm">4月5日晚12时青岛供暖结束 在家要添加衣物</a></li>
+<li><a href="http://club.qingdaonews.com/showAnnounce_2_5846854_1_0.htm">为让女友看得起 青岛无业男假扮律师骗十几万</a></li>
+<li><a href="http://club.qingdaonews.com/showAnnounce_2_5846849_1_0.htm">鼓励推进垃圾分类 青岛获国家补助金704万元</a></li>
+<li><a href="http://club.qingdaonews.com/showAnnounce_2_5846780_1_0.htm">墓地价格调查：17年涨了15倍 论地价属这里最贵</a></li>
+</ul>
+</div>
+</div>
+<!-- cnzz推荐代码 e-->
+<!-- T3 一楼横幅 -->
+<div style="margin-bottom: 30px; padding-top:10px"> <script charset="gb2312" language="JavaScript" src="http://2.up.qingdaonews.com/up/loc/2014-6/uploc1092.js" type="text/javascript"></script> </div>
+<!-- 跟帖内容开始 s-->
+<a name="c2"></a>
+<div class="tit_user"><strong><a href="http://passport.qingdaonews.com/u/青青岛社区网友" target="_blank">青青岛社区网友</a></strong>
+<div class="user_data"><span>海草级</span><img src="/images/stars.gif" title="1级"/><img src="/images/stars1.gif" title="1级"/><img src="/images/stars1.gif" title="1级"/><img src="/images/stars1.gif" title="1级"/><img src="/images/stars1.gif" title="1级"/><img src="/images/stars1.gif" title="1级"/><img src="/images/stars1.gif" title="1级"/><img src="/images/stars1.gif" title="1级"/><img src="/images/stars1.gif" title="1级"/><img src="/images/stars1.gif" title="1级"/></div>
+<div class="user_ico"></div>
+<div class="user_floor g_b"> 沙发 </div>
+<div class="user_msg"> <a href="http://passport.qingdaonews.com/index.php?ly=club&amp;backurl=aHR0cDovL2NsdWIucWluZ2Rhb25ld3MuY29tL3Nob3dBbm5vdW5jZV8xMjQwXzQwOTAzM18xXzAuaHRt">纸条</a>｜<a href="javascript:setit('青青岛社区网友')">回复</a>｜引用｜<a href="javascript:checklogins();openwin('/ownerEditAnnounce_static.php?board_id=1240&amp;type=1&amp;topic_id=136423&amp;pid=409033&amp;sess=195855c21295c5f051726d7bea94a11f&amp;pt=6&amp;lc=0&amp;page=1',645,600);">编辑</a> </div>
+<ul id="user">
+<li><a href="#"><img height="50" src="http://pic.qingdaonews.com/face.php?uid=&amp;size=middle" width="50"/></a><span>
+<p class="user_news"> <img height="100" src="http://pic.qingdaonews.com/face.php?uid=&amp;size=big" width="100"/> <i class="user_r"> <a class="follow" data-id="" href="javascript:void(0)">[加关注]</a> <a href="http://passport.qingdaonews.com/index.php?ly=club&amp;backurl=aHR0cDovL2NsdWIucWluZ2Rhb25ld3MuY29tL3Nob3dBbm5vdW5jZV8xMjQwXzQwOTAzM18xXzAuaHRt">[发纸条]</a> <a href="http://passport.qingdaonews.com/u/青青岛社区网友" target="_blank">[发帖集]</a> <a href="http://passport.qingdaonews.com/u/青青岛社区网友" target="_blank">[回帖集]</a> </i> </p>
+</span> </li>
+</ul>
+</div>
+<div class="layer_c">
+<!--正文 s-->
+<div class="text"> <em></em>
+<p><img alt="{2045}" src="http://club.qingdaonews.com/faces/Pics/2045.gif"/></p>
+</div>
+<!--签名 s-->
+<!--签名 e-->
+<!--正文 e-->
+<div class="article_foot"><span>2016-09-09 16:30:45 来自 <img alt="青青岛社区手机客户端" height="18" src="newimg/phone-ico.png" title="青青岛社区手机客户端" width="12"/> <a href="http://vip.qingdaonews.com/club/201407/clubapp/" style="font-size:12px" target="_blank">青青岛社区手机客户端</a></span></div>
+</div>
+<a name="c3"></a>
+<div class="tit_user"><strong><a href="http://passport.qingdaonews.com/u/青青岛社区网友" target="_blank">青青岛社区网友</a></strong>
+<div class="user_data"><span>海草级</span><img src="/images/stars.gif" title="1级"/><img src="/images/stars1.gif" title="1级"/><img src="/images/stars1.gif" title="1级"/><img src="/images/stars1.gif" title="1级"/><img src="/images/stars1.gif" title="1级"/><img src="/images/stars1.gif" title="1级"/><img src="/images/stars1.gif" title="1级"/><img src="/images/stars1.gif" title="1级"/><img src="/images/stars1.gif" title="1级"/><img src="/images/stars1.gif" title="1级"/></div>
+<div class="user_ico"></div>
+<div class="user_floor g_b"> 3楼 </div>
+<div class="user_msg"> <a href="http://passport.qingdaonews.com/index.php?ly=club&amp;backurl=aHR0cDovL2NsdWIucWluZ2Rhb25ld3MuY29tL3Nob3dBbm5vdW5jZV8xMjQwXzQwOTAzM18xXzAuaHRt">纸条</a>｜<a href="javascript:setit('青青岛社区网友')">回复</a>｜引用｜<a href="javascript:checklogins();openwin('/ownerEditAnnounce_static.php?board_id=1240&amp;type=1&amp;topic_id=161356&amp;pid=409033&amp;sess=195855c21295c5f051726d7bea94a11f&amp;pt=6&amp;lc=0&amp;page=1',645,600);">编辑</a> </div>
+<ul id="user">
+<li><a href="#"><img height="50" src="http://pic.qingdaonews.com/face.php?uid=&amp;size=middle" width="50"/></a><span>
+<p class="user_news"> <img height="100" src="http://pic.qingdaonews.com/face.php?uid=&amp;size=big" width="100"/> <i class="user_r"> <a class="follow" data-id="" href="javascript:void(0)">[加关注]</a> <a href="http://passport.qingdaonews.com/index.php?ly=club&amp;backurl=aHR0cDovL2NsdWIucWluZ2Rhb25ld3MuY29tL3Nob3dBbm5vdW5jZV8xMjQwXzQwOTAzM18xXzAuaHRt">[发纸条]</a> <a href="http://passport.qingdaonews.com/u/青青岛社区网友" target="_blank">[发帖集]</a> <a href="http://passport.qingdaonews.com/u/青青岛社区网友" target="_blank">[回帖集]</a> </i> </p>
+</span> </li>
+</ul>
+</div>
+<div class="layer_c">
+<!--正文 s-->
+<div class="text"> <em></em>
+<p>{2045}</p>
+</div>
+<!--签名 s-->
+<!--签名 e-->
+<!--正文 e-->
+<div class="article_foot"><span>2016-11-14 10:08:29 来自来自社区微信发帖</span></div>
+</div>
+<a name="c4"></a>
+<div class="tit_user"><strong><a href="http://passport.qingdaonews.com/u/青青岛社区网友" target="_blank">青青岛社区网友</a></strong>
+<div class="user_data"><span>海草级</span><img src="/images/stars.gif" title="1级"/><img src="/images/stars1.gif" title="1级"/><img src="/images/stars1.gif" title="1级"/><img src="/images/stars1.gif" title="1级"/><img src="/images/stars1.gif" title="1级"/><img src="/images/stars1.gif" title="1级"/><img src="/images/stars1.gif" title="1级"/><img src="/images/stars1.gif" title="1级"/><img src="/images/stars1.gif" title="1级"/><img src="/images/stars1.gif" title="1级"/></div>
+<div class="user_ico"></div>
+<div class="user_floor g_b"> 4楼 </div>
+<div class="user_msg"> <a href="http://passport.qingdaonews.com/index.php?ly=club&amp;backurl=aHR0cDovL2NsdWIucWluZ2Rhb25ld3MuY29tL3Nob3dBbm5vdW5jZV8xMjQwXzQwOTAzM18xXzAuaHRt">纸条</a>｜<a href="javascript:setit('青青岛社区网友')">回复</a>｜引用｜<a href="javascript:checklogins();openwin('/ownerEditAnnounce_static.php?board_id=1240&amp;type=1&amp;topic_id=161358&amp;pid=409033&amp;sess=195855c21295c5f051726d7bea94a11f&amp;pt=6&amp;lc=0&amp;page=1',645,600);">编辑</a> </div>
+<ul id="user">
+<li><a href="#"><img height="50" src="http://pic.qingdaonews.com/face.php?uid=&amp;size=middle" width="50"/></a><span>
+<p class="user_news"> <img height="100" src="http://pic.qingdaonews.com/face.php?uid=&amp;size=big" width="100"/> <i class="user_r"> <a class="follow" data-id="" href="javascript:void(0)">[加关注]</a> <a href="http://passport.qingdaonews.com/index.php?ly=club&amp;backurl=aHR0cDovL2NsdWIucWluZ2Rhb25ld3MuY29tL3Nob3dBbm5vdW5jZV8xMjQwXzQwOTAzM18xXzAuaHRt">[发纸条]</a> <a href="http://passport.qingdaonews.com/u/青青岛社区网友" target="_blank">[发帖集]</a> <a href="http://passport.qingdaonews.com/u/青青岛社区网友" target="_blank">[回帖集]</a> </i> </p>
+</span> </li>
+</ul>
+</div>
+<div class="layer_c">
+<!--正文 s-->
+<div class="text"> <em></em>
+<p>{2045}</p>
+</div>
+<!--签名 s-->
+<!--签名 e-->
+<!--正文 e-->
+<div class="article_foot"><span>2016-11-14 10:09:42 来自来自社区微信发帖</span></div>
+</div>
+<!--跟帖-->
+<!--分页符-->
+<div class="layer_a">
+<div class="go_num_l">
+<div class="go_num"> <a class="h">1</a>
+            到第
+            <input class="go_num_t" name="" type="text"/>
+            页
+            <input class="btn_a goPage" name="" type="button" value="确定"/>
+</div>
+</div>
+<div class="btn_d"><a class="btn_d_1" href="gentopicall_static.php?board_id=1240&amp;topic_id=409033&amp;Page=1">刷新生成此贴</a><a class="btn_d_2" href="club_entry_1240_5_0_1_0.htm">返回</a></div>
+</div>
+<!--分页符-->
+<!-- T4 楼尾横幅  -->
+<script charset="gb2312" language="JavaScript" src="http://0.up.qingdaonews.com/up/loc/2014-6/uploc1093.js" type="text/javascript"></script>
+<!--回帖-->
+<div class="tit_b">回复此贴</div>
+<div class="layer_e mb20">
+<!--帖子回复 B-->
+<script language="javascript">
+<!--
+function VerifyInput()
+{
+    Editor.window.AttachSubmit();
+    //var  verifyCodeValue = document.frmAnnounce.replyCheckCode.value;
+        if(document.frmAnnounce.a_name.value==''){alert('用户名不可为空！');document.frmAnnounce.a_name.focus();return false;}
+    if(document.frmAnnounce.passwd.value==''){alert('密码不可为空！');document.frmAnnounce.passwd.focus();return false;}
+        /* 验证码功能过滤
+    if(verifyCodeValue=='') {
+        alert('请您填写验证码后回帖');
+        document.frmAnnounce.replyCheckCode.focus();
+        return false;
+    } else {
+        if(checkVerifyCode(verifyCodeValue)==0){
+           alert('您填写的验证码不正确，请检查一下');
+           document.frmAnnounce.replyCheckCode.focus();
+           return false;
+        }
+        //alert(checkVerifyCode(verifyCodeValue));
+    }
+        */
+  if(document.frmAnnounce.body.value.length<4)
+  {
+    alert('对不起，内容不能少于4个字符或汉字。');
+    document.frmAnnounce.body.focus();
+    return false;
+  }
+  else if(document.frmAnnounce.body.value.length>64*1024)
+  {
+    alert('对不起，您的内容超过了64K');
+    document.frmAnnounce.body.focus();
+    return false;
+  }
+  else
+  {
+        document.getElementById("submit1").disabled=true;
+        document.getElementById("submit1").src="newimg/btn_post3.gif";
+       // 附件 S
+        if(swfUploadobject != undefined) {
+            $("#upList > [id^='SWFUpload_']").each(function(i){
+            var name = $.trim($("#"+this.id+" [name=fileName]").val());
+            if(name.length>0){
+                var aid =$.trim($("#"+this.id+" [name=aid]").val());
+                var desc = $.trim($("#"+this.id+" [name=upDescribe]").val());
+                desc = desc.replace(/\_/ig, '-');
+                try{
+                    newElement = document.createElement('input');
+                    newElement.type="hidden";
+                    newElement.name="attach[]";
+                    newElement.value=aid+'_'+desc+'_'+name;
+                    frmAnnounce.appendChild(newElement);
+                } catch(ex) {
+                    alert(ex);
+                }
+            }
+          });
+        }
+
+    // 附件 E
+   // clearsavedunpost();
+    return true;
+  }
+}
+
+function btn_send_clicked()
+{
+  if(frmAnnounce.checkcode.value.length>0)
+  {
+    document.frmAnnounce.btn_send.disabled=true;
+    document.frmAnnounce.submit();
+  }
+  return true;
+}
+function   btnclick()
+{
+  if((event.keyCode=='13')&&(frmAnnounce.checkcode.value.length>0))
+  {
+    btn_send_clicked();
+  }
+}
+function insertUbb(textobj,ubbtag){
+  var ubbLength=textobj.value.length;
+  textobj.focus();
+  if(typeof document.selection !="undefined")
+  {
+    document.selection.createRange().text= '['+ubbtag+']'+document.selection.createRange().text + '[/'+ubbtag+']';
+  }
+  else
+  {
+    textobj.value=textobj.value.substr(0,textobj.selectionStart)+'['+ubbtag+']'+textobj.value.substring(textobj.selectionStart,textobj.selectionEnd)+'[/'+ubbtag+']'+textobj.value.substring(textobj.selectionEnd,ubbLength);
+  }
+}
+
+function inputs(s)
+{
+    var d = s.options[s.selectedIndex].value;
+    if(d!=''){
+  //str='['+d+']'+'[/'+d+']';
+  //document.frmAnnounce.body.value=document.frmAnnounce.body.value+str;
+  insertUbb(document.frmAnnounce.body,d);
+  document.frmAnnounce.body.focus();
+  }
+}
+
+function clicked()
+{
+  if(document.frmAnnounce.change.checked==false)
+  {
+    document.getElementById ("majia").style.display="none";
+    alert('使用上面灰色的用户名，无须再次填写用户名和密码，可直接撰写主题和内容。');
+    document.frmAnnounce.a_name2.disabled=true;
+    document.frmAnnounce.passwd2.disabled=true;
+  }
+  else
+  {
+    document.getElementById ("majia").style.display="block";
+    alert('使用另外的已注册用户名。');
+    document.frmAnnounce.a_name2.disabled=false;
+    document.frmAnnounce.a_name2.focus();
+    document.frmAnnounce.passwd2.disabled=false;
+
+  }
+}
+function changeHints(){
+
+  var l=document.frmAnnounce.passwd.value.length
+
+  document.all("hints").innerHTML="<font color=red>已经输入"+l+"字节</font>"
+
+  return true
+}
+function format()
+{
+  var body = "\n"+document.getElementById("fms_body").value;
+  body = body.replace(/ |　/ig,"");
+  body = body.replace(/\r\n/ig,"\n");
+  body = body.replace(/\n\n/ig,"\n");
+  body = body.replace(/\n\n/ig,"\n");
+  body = body.replace(/\n\n/ig,"\n");
+  body = body.replace(/\n\n/ig,"\n");
+  body = body.replace(/\n/ig,"\n\n　　");
+  body = body.replace("\n\n","");
+  document.getElementById("fms_body").value=body;
+}
+function insertImg(picAdd){
+  if(picAdd==''){
+    alert("请填写图片地址！");
+    return;
+  }
+  //frmAnnounce.body.value=frmAnnounce.body.value+'\n[img]' + picAdd +'[/img]\n';
+   Editor.window.insertUBB('\n[img]' + picAdd+'[/img]\n');
+}
+function insertImg_pre(picAdd){
+  if(picAdd.charAt(0)=="0"){
+    alert(picAdd.substr(2,1000));
+    return;
+  }
+  insertImg(picAdd);
+}
+-->
+</script>
+<div class="vpost" style="text-align: left;">
+<div class="vpost_from">
+<form action="SaveReAnnounce_static.php" method="POST" name="frmAnnounce" onkeydown="if(event.ctrlKey&amp;&amp;event.keyCode==13)this.submit()" onsubmit="return VerifyInput();">
+<input name="viewmode" type="hidden" value=""/>
+<input name="topic_id" type="hidden" value=""/>
+<input name="parent_id" type="hidden" value="409033"/>
+<input name="board_id" type="hidden" value="1240"/>
+<input name="board_index" type="hidden" value="5"/>
+<input name="checkCode" type="hidden" value="6816579"/>
+<input name="finalCode" type="hidden" value="124ffac91035178d3de6465e587ecea1"/>
+<input name="Page" type="hidden" value="1"/>
+<div class="vpost_tit" id="postUserInfo"> <em>用户名：</em> <input class="singleinput" id="a_name" maxlength="50" name="a_name" size="18" type="text"/>
+<span class="smallFont"> 密  码： </span>
+<input class="singleinput" id="passwd" maxlength="32" name="passwd" onkeydown="return changeHints()" onkeyup="return changeHints()" size="18" type="password"/>
+                (<span id="hints">已经输入0字节</span>) <strong class="cRed">*</strong> </div>
+<div class="blank5"> </div>
+<div class="vpost_tit"> <em>主  题：</em>
+<input id="subject" maxlength="255" name="subject" size="40" style="width:350px;" value="回复:"/>
+<input checked="true" id="qm" name="chkSignature" type="checkbox" value="1"/>
+<label class="pl10">签名</label>
+</div>
+<div class="blank5"> </div>
+<div class="vpost_txt">
+<div class="z">
+<textarea class="txt" cols="80" id="fms_body" name="body" rows="14" style="display:none; width:800px;height:350px;" wrap="VIRTUAL"></textarea>
+<iframe frameborder="0" id="Editor" marginheight="0" marginwidth="0" name="Editor" scrolling="No" src="/ubb/editor.html?id=body" style="width:800px;height:350px;"></iframe>
+</div>
+<div class="blank10"> </div>
+</div>
+<div class="vpost_tit">
+<table>
+<tr>
+<td align="center" style="width:390px"><dl class="attach-mod postform">
+<dt class="attach-hd link1"> <a class="on" href="###" id="upAttach">上传图片</a> </dt>
+<dd class="attach-bd" id="upattachMod" style="font-size: small;width: 700px;"> </dd>
+<dd id="upattachLogin" style="display:none; text-align: left; height: 28px; line-height: 28px; ">未登录，请 <a alt="用户登录" class="thickbox cRed" href="#TB_inline?height=100&amp;width=300&amp;inlineId=loginDialog&amp;title=upattachLogin_a" id="upattachLogin_a">登录</a> 。</dd>
+</dl></td>
+</tr>
+<!-- 回帖增加验证码判断 s-->
+<!--   <tr><td>请输入右侧图片验证码: <input type="text" value="" name="replyCheckCode" id="replyCheckCode"><img src="http://club.qingdaonews.com/yzm/yzm.php" id="replyCheckCodeImg"/><a href="javascript:void(0);" id="changeReplyCode">看不清楚?点我更换</a></td></tr>
+                --> <!-- 回帖增加验证码判断 e-->
+<tr>
+<td style="padding-left:25px;"><input id="submit1" name="submit1" src="newimg/btn_post2.gif" style="cursor:pointer;" title="Ctrl+Enter 快速发布" type="image" value=" 发 表 "/>
+<input name="tolastpage" type="checkbox" value="1"/>
+<label class="pl10">回帖后跳转最后一页</label></td>
+</tr>
+</table>
+</div>
+<div class="blank10"> </div>
+<div class="pt10">
+<div id="add_photo" style="font-size:9px;color:red;"><span id="rightload" style="display:none;">上传中，请稍候... </span></div>
+</div>
+</form>
+</div>
+</div>
+</div>
+<!--底部推荐-->
+<div class="layer_t">
+<div class="layer_t_l">
+<div class="tit_c">精品贴图</div>
+<ul><li><a atremote="atremote" href="http://club.qingdaonews.com/showAnnounce_173_3954573_1_0.htm" target="_blank"><img atremote="atremote" height="160" src="http://www.qingdaonews.com/images/attachement/jpg/site1/20170327/acd1b877db6f1a43178d07.jpg" width="160"/></a><p><a atremote="atremote" href="http://club.qingdaonews.com/showAnnounce_173_3954573_1_0.htm" target="_blank">三月巨雪峰</a></p></li><li><a atremote="atremote" href="http://club.qingdaonews.com/showAnnounce_1032_3882181_1_0.htm" target="_blank"><img atremote="atremote" height="160" src="http://www.qingdaonews.com/images/attachement/jpg/site1/20170327/acd1b877db6f1a43174006.jpg" width="160"/></a><p><a atremote="atremote" href="http://club.qingdaonews.com/showAnnounce_1032_3882181_1_0.htm" target="_blank">植物园花儿正灿 迷人眼</a></p></li><li><a atremote="atremote" href="http://club.qingdaonews.com/showAnnounce_84_3852011_1_0.htm" target="_blank"><img atremote="atremote" height="160" src="http://www.qingdaonews.com/images/attachement/jpg/site1/20170322/544249f43f021a3c61a201.jpg" width="160"/></a><p><a atremote="atremote" href="http://club.qingdaonews.com/showAnnounce_84_3852011_1_0.htm" target="_blank">甜美空乘老师 单身呢</a></p></li><li><a atremote="atremote" href="http://club.qingdaonews.com/showAnnounce_2_5842318_1_0.htm" target="_blank"><img atremote="atremote" height="160" src="http://www.qingdaonews.com/images/attachement/jpg/site1/20170317/acd1b877db6f1a35c2f402.jpg" width="160"/></a><p><a atremote="atremote" href="http://club.qingdaonews.com/showAnnounce_2_5842318_1_0.htm" target="_blank">梅花已开 娇艳欲滴</a></p></li></ul> </div>
+<div class="f_r">
+<div class="tit_d">看了该帖的人还喜欢看</div>
+<div class="f_list">
+<ul>
+<li><a href="http://club.qingdaonews.com/showAnnounce_2_5847034_1_0.htm" target="_blank">方便了 青岛市内三区不动产交易涉税业务同城通办</a></li><li><a href="http://club.qingdaonews.com/showAnnounce_2_5847036_1_0.htm" target="_blank">地铁二号线东段今年开通！未来五年开通8条线路</a></li><li><a href="http://club.qingdaonews.com/showAnnounce_2_5847033_1_0.htm" target="_blank">八大关现李鬼收费员 半天收450块钱记满小本被行拘</a></li><li><a href="http://club.qingdaonews.com/showAnnounce_2_5846936_1_0.htm" target="_blank">新政之后买房更要擦亮眼 看青岛四大成功崛起的片区</a></li><li><a href="http://club.qingdaonews.com/showAnnounce_2_5846847_1_0.htm" target="_blank">4月5日晚12时青岛供暖结束 在家要添加衣物</a></li><li><a href="http://club.qingdaonews.com/showAnnounce_2_5846854_1_0.htm" target="_blank">为让女友看得起 青岛无业男假扮律师骗十几万</a></li>
+</ul>
+</div>
+<div class="tit_d">社区活动</div>
+<div class="c_play"> <ul><li><a atremote="atremote" href="http://yezhu.qingdaonews.com/thread-2589204-1-1.html" target="_blank"><img atremote="atremote" height="55" src="http://www.qingdaonews.com/images/attachement/jpg/site1/20141013/485b3940bf9415a5bad903.jpg" width="90"/></a><div class="w220"><strong><a href="http://yezhu.qingdaonews.com/thread-2589204-1-1.html" target="_blank">房贷7折青岛房价触底 套三首付8万</a></strong><p>10.18免费看房团5线齐发抄底青岛房价，套三首付8万...<a atremote="atremote" class="cYellow" href="http://yezhu.qingdaonews.com/thread-2589204-1-1.html" target="_blank">[参与]</a></p></div></li><li><a atremote="atremote" href="http://club.qingdaonews.com/showAnnounce_1115_184637_1_0.htm" target="_blank"><img atremote="atremote" height="55" src="http://www.qingdaonews.com/images/attachement/jpg/site1/20141013/e89a8f33254515a5cc8f41.jpg" width="90"/></a><div class="w220"><strong><a href="http://club.qingdaonews.com/showAnnounce_1115_184637_1_0.htm" target="_blank">【赢金币】说说你最近看的纸质书</a></strong><p>聊聊自己最近读的书，将得到社区金币3枚奖励<a atremote="atremote" class="cYellow" href="http://club.qingdaonews.com/showAnnounce_1115_184637_1_0.htm" target="_blank">[参与]</a></p></div></li></ul> </div>
+</div>
+</div>
+</div>
+<div class="layer_r">
+<div class="fixed mb20">
+<div class="msg m_ico1"><a href="javascript:setit('')">回帖</a></div>
+<div class="msg m_ico2"><a href="javascript:void(0);" id="favorite">收藏</a></div>
+<div class="msg m_ico3"><a href="#">分享</a>
+<div style="position:relative">
+<div class="bdsharebuttonbox" style="position: absolute; top: -60px; left:0px; width: 58px;"><a class="bds_more" data-cmd="more" href="#" style=" display:block;background:none; width:60px; height:60px; margin:0; padding:0; "></a></div>
+<script>window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"1","bdSize":"32"},"share":{}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)]
+</script></div>
+</div>
+<div class="msg m_ico4"><a href="postform.php?index=5&amp;board_id=1240">发帖</a></div>
+</div>
+<!--广告 s-->
+<div class="ad300150"><script charset="gb2312" language="JavaScript" src="http://1.up.qingdaonews.com/up/loc/2014-6/uploc1091.js" type="text/javascript"></script></div>
+<!--广告 e-->
+<!--本论坛精华帖 替换为 48小时点击排行s-->
+<div class="tit_e">
+<h4>48小时点击排行</h4>
+</div>
+<div class="l_list mb10">
+<ol style="list-style: decimal" type="1">
+<li><span class="m-num">1</span><a href="showAnnounce_2_5847431_1_0.htm">青岛58中传疯了</a></li><li><span class="m-num">2</span><a href="showAnnounce_2_5847583_1_0.htm">中国最需教育的不是孩子，而是家长！尤其是爸爸！</a></li><li><span class="m-num">3</span><a href="showAnnounce_2_5847452_1_0.htm">【板桥坊古村】每件文物有了“身份证”</a></li><li><span class="m-num">4</span><a href="showAnnounce_2_5847439_1_0.htm">【板桥坊古村】江苏原副省长李云峰被开除党籍和公职</a></li><li><span class="m-num">5</span><a href="showAnnounce_2_5847464_1_0.htm">青岛远洋公馆利用老带新政策，用这个引子骗客户钱</a></li><li><span class="m-num">6</span><a href="showAnnounce_2_5847425_1_0.htm">赞陈岩石</a></li>
+</ol>
+</div>
+<!--本论坛精华帖 替换为 48小时点击排行e-->
+<!--精彩图集 s-->
+<div class="tit_e">
+<h4>精彩图集</h4>
+<a href="http://club.qingdaonews.com/photos/">更多</a> </div>
+<div class="l_pic">
+<ul>
+<li><a href="http://club.qingdaonews.com/photos/8/photos_8449.htm"><img height="144" src="http://pic.qingdaonews.com/p/c1/117/1171961/mediumphoto/20151204112326.jpg" width="120"/></a>
+<p><a href="http://club.qingdaonews.com/photos/8/photos_8449.htm">三岛摄影——问一声那海鸥</a></p>
+</li>
+<li><a href="http://club.qingdaonews.com/photos/8/photos_8435.htm"><img height="144" src="http://pic.qingdaonews.com/p/c1/117/1171961/mediumphoto/20151125111594.jpg" width="120"/></a>
+<p><a href="http://club.qingdaonews.com/photos/8/photos_8435.htm">手机拍——疑是林花昨夜开</a></p>
+</li>
+<li><a href="http://club.qingdaonews.com/photos/8/photos_6416.htm"><img height="144" src="http://pic.qingdaonews.com/p/c/251/251420/mediumphoto/20150608104117.jpg" width="120"/></a>
+<p><a href="http://club.qingdaonews.com/photos/8/photos_6416.htm">【回顾】第一届“风采杯”自驾游即墨玫瑰小镇摄影记</a></p>
+</li>
+<li><a href="http://club.qingdaonews.com/photos/8/photos_6049.htm"><img height="144" src="http://pic.qingdaonews.com/p/club/2015/04/oriphoto/2015042909170122694.jpg" width="120"/></a>
+<p><a href="http://club.qingdaonews.com/photos/8/photos_6049.htm">章子怡闺房照曝光 与爱犬玩耍纯真似少女（图）</a></p>
+</li>
+</ul>
+</div>
+<!--精彩图集 e-->
+<!--论坛活动 s-->
+<div class="tit_e">
+<h4>本论坛本周Top10</h4>
+</div>
+<div class="l_list mb20">
+<ul>
+</ul>
+</div>
+<!--论坛活动 e-->
+<script charset="gb2312" language="JavaScript" src="http://4.up.qingdaonews.com/up/loc/2014-6/uploc1094.js" type="text/javascript"></script>
+<div class="mb20"> <script charset="gb2312" language="JavaScript" src="http://0.up.qingdaonews.com/up/loc/2014-6/uploc1095.js" type="text/javascript"></script> </div>
+</div>
+</div>
+<!-- 帖子论坛 e-->
+</div>
+<!--底部-->
+<div class="foot">
+<iframe border="0" frameborder="No" height="75" marginheight="0" marginwidth="10" name="sina_roll" scrolling="no" src="http://www.qingdaonews.com/buttonqd.htm" width="765"></iframe>
+</div>
+<!--打赏 s-->
+<div id="win_mod">
+<div class="win_tit"><strong>打赏</strong><a href="javascript:void(0);" onclick="$('#win_mod').hide();" title="关闭"></a></div>
+<div class="win_con">
+<p><span class="cGray lt">金币：</span>
+<input class="win_g" id="goldNums" name="" type="number" value="1"/>
+<!--金币会从你的账户中扣除，今天还可加<span class="cYellow">16</span>个--></p>
+<input id="goldTopicId" name="goldTopicId" type="hidden" value="409033"/>
+<input id="goldBoardId" name="goldBoardId" type="hidden" value="1240"/>
+<p><span class="cGray lt">评语：</span>
+<textarea class="win_t" cols="" id="goldInfo" name="" rows=""></textarea>
+</p>
+<div class="layer_z"> <span class="lt">可选评语：</span>
+<div class="win_py">
+<ul id="rewards_desc">
+<li>祝福……</li>
+<li>我和我的小伙伴都惊呆了！</li>
+<li>不作死就不会死</li>
+</ul>
+</div>
+<!--a href="#" class="cYellow ml5">换一组</a-->
+</div>
+<!--<p class="pl60"><input name="" type="checkbox" value="" /> 发提醒通知作者</p>-->
+<p class="pl60">
+<input class="btn_ds" type="button" value="提交"/>
+</p>
+</div>
+</div>
+<!--打赏 e-->
+<!--纸条 s-->
+<form action="usercenter/subsend.php" id="frm_msg" method="post" target="frm_msg">
+<div id="win_msg" style="display: none;overflow: auto;width: 400px;margin: 0 auto;padding: 5px;border-radius: 4px;-moz-border-radius: 4px;-webkit-border-radius: 4px;position: absolute;border: 1px solid #e3e3e3;background: #fff;">
+<div class="win_tit"><strong>发纸条</strong><a href="javascript:void(0);" onclick="$('#win_msg').hide();" title="关闭"></a></div>
+<div class="win_con">
+<p><span class="cGray lt">收件人：</span>
+<input class="win_g" id="toname" name="toname" style="height: 25px;width: 200px;" type="text" value=""/>
+</p>
+<p><span class="cGray lt">内容：</span>
+<textarea class="win_t" cols="" id="message" name="message" rows="" style="height:75px; font-size: medium;"></textarea>
+</p>
+<p><span class="cGray lt">验证码：</span>
+<input class="win_g" id="checkcode" name="qqd_msg_checkcode" style="height: 25px;width: 60px;" type="text" value=""/>
+<a href="javascript:void(0);" onclick="changeVerifyCode();"><img id="verifyId" src="http://club.qingdaonews.com/yzm/yzm.php"/></a> </p>
+<p class="pl60">
+<input class="btn_msg" style="width: 60px;height: 24px;line-height: 24px;border: none;background: #fb6902;color: #fff;cursor: pointer;border-radius: 4px;-moz-border-radius: 4px;-webkit-border-radius: 4px;font-weight: bold;" type="button" value="提交"/>
+</p>
+</div>
+</div>
+</form>
+<iframe name="frm_msg" style="width:0;height:0;visible:hidden"> </iframe>
+<!--纸条 e-->
+<div id="easyDialogBox" style="margin: -32px 0px 0px -81px; padding: 0px; border: none; z-index: 10000; position: fixed; top: 50%; left: 50%; display: none;">
+<div class="msg2" id="box_msg2" style="display: block; margin: 0px;">
+<div class="c_layer">
+<div class="msg_ico2" id="box_msg2_content" style="background: url(/newimg/usercenter/dialog_notice.jpg) no-repeat scroll 30px center transparent;">关注成功</div>
+</div>
+</div>
+</div>
+<div id="floatPanel">
+<div class="ctrolPanel"> <a class="arrow" href="#" target="_self"><span>顶部</span></a> <a class="qrcode" target="_self"><span>客户端</span></a></div>
+<div class="popPanel">
+<div class="popPanel-inner">
+<div class="qrcodePanel"> <img atremote="atremote" src="newimg/weixin.jpg"/><span>青青岛论坛官方微信</span></div>
+</div>
+</div>
+</div>
+<div id="loginDialog" style="display:none;"> <span class="win-tip"></span>
+<ul class="link0" id="pop_login">
+<li class="login-name">
+<label class="lab" for="D_username"> 账　号： </label>
+<input class="txt" id="D_username" name="D_username" placeholder="用户名" tabindex="1" type="text"/>
+        <a class="cGreen" href="http://passport.qingdaonews.com/reg/" target="_blank">新用户注册</a> </li>
+<li class="login-pass">
+<label class="lab" for="D_password"> 密　码： </label>
+<input class="txt" id="D_password" name="D_password" placeholder="密码" tabindex="2" type="password"/>
+        <a href="http://passport.qingdaonews.com/reg/getpassword.php" target="_blank">忘记密码？</a> </li>
+<li class="login-btn"> <a class="confirm-btn" id="D_loginBtn" tabindex="5"> <span> 登录 </span> </a>    <a class="options-btn" id="D_cancelBtn" tabindex="6"> <span> 取消 </span> </a> </li>
+</ul>
+</div>
+<a alt="用户登录" class="thickbox cRed" href="#TB_inline?height=100&amp;width=300&amp;inlineId=loginDialog&amp;title=upattachLogin_b" id="upattachLogin_b" style="display:none" title="用户登录">登录</a>
+<input id="loginnamecheck" name="loginnamecheck" type="hidden" value=""/>
+<script type="text/javascript">var _bdhmProtocol = (true ? " https://" : " http://");document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F099a2f2a4f2c2f042dbd360b42309fc4' type='text/javascript'%3E%3C/script%3E"));</script><div style="display:none;"><script language="JavaScript" src="https://s22.cnzz.com/z_stat.php?id=1000084976&amp;web_id=1000084976"></script></div>
+<!--底部登录 s-->
+<div class="gbox" id="cc">
+<div class="u-btn-1" id="m-close">×</div>
+<div class="m-box-4">
+<div class="m-box-5">
+<p class="m-box-6"><span class="m-msg" id="berror" style="display: none;"></span>
+<input class="u-ipt-1" id="bname" onblur="this.value==''?this.value='用户名':'';" onfocus="this.value=='用户名'?this.value='':'用户名';" type="text" value="用户名"/>
+<input class="u-ipt-1" id="bpwd" onblur="this.value==''?this.value='':'';" onfocus="this.value=='密码'?this.value='':'';" type="password" value=""/>
+<input class="u-btn-2" onclick="Login()" type="button" value="登录"/>
+</p>
+<p class="m-box-6" style="padding:0"><strong>用其他账号登录：</strong> <a href="http://passport.qingdaonews.com/oauth/login/a/qq/" target="_blank"><img src="http://club.qingdaonews.com/images/icons/login/qqindex.png"/></a><a href="http://passport.qingdaonews.com/oauth/login/a/wechat/" target="_blank"><img src="http://club.qingdaonews.com/images/icons/login/wechatindex.png"/></a><a href="http://passport.qingdaonews.com/oauth/login/a/weibo/" target="_blank"><img src="http://club.qingdaonews.com/images/icons/login/weiboindex.png"/></a></p>
+</div>
+<!--广告-->
+<div class="ad50060"><a href="" target="_blank"><img src=""/></a></div>
+</div>
+<span class="m-box-3"></span> </div>
+<!--底部登录 e-->
+<script type="text/javascript">
+        function loadsavedpost()
+        {
+                if("409033"==$.cookie("qqd_saved_unpost_reply_id")){
+                    if ($.cookie("qqd_saved_unpost_reply_body")!=null && $.cookie("qqd_saved_unpost_reply_body")!="")
+                    {
+                            //document.getElementById("fms_body").value=$.cookie("qqd_saved_unpost_reply_body");
+                            $("#fms_body").text($.cookie("qqd_saved_unpost_reply_body"));
+                    }
+                } else{
+                    clearsavedunpost()
+                }
+                intid_savepost=setInterval("saveunpost()",2000);
+        }
+        function saveunpost()
+        {
+                $.cookie("qqd_saved_unpost_reply_id","409033",{
+                        expires: 1
+                });
+                $.cookie("qqd_saved_unpost_reply_body",document.getElementById("fms_body").value,{
+                        expires: 1
+                });
+
+        }
+        function clearsavedunpost(){
+                clearInterval(intid_savepost);
+                $.cookie("qqd_saved_unpost_reply_id",null);
+                $.cookie('qqd_saved_unpost_reply_body', null);
+        }
+        var intid_savepost=0;
+        $(document).ready(function(){
+          $("#m-close").click(function(){
+            $("#cc").hide();
+              $.cookie("adHide",1);
+
+          });
+
+        });
+      </script>
+</body>
+<!--底部登录 s-->
+<script>
+    function checkFormBott() {
+        if($("#name_1").val()==''||$("#name_1").val()=='姓名'){
+            var prompts = $("#berror"); //修改
+            $("#name_1").focus();
+            prompts.html('请输入姓名');
+            prompts.show();
+            return false;
+        }else if($("#tel_1").val()==''||$("#tel_1").val()=='电话'){
+            var prompts = $("#berror"); //修改
+            $("#tel_1").focus();
+            prompts.html('请输入电话');
+            prompts.show();
+            return false;
+        }
+        var reg=/^[0-9]+$/;
+        if (!reg.test($("#tel_1").val()))
+        {
+                var prompts = $("#berror"); //修改
+                $("#tel_1").focus();
+                prompts.html('电话必须是数字！');
+                prompts.show();
+                return false;
+        }
+        var tellen = $("#tel_1").val().length;
+        if (tellen!=7 && tellen!=8 && tellen!=11 && tellen!=12)
+        {
+                var prompts = $("#berror"); //修改
+                $("#tel_1").focus();
+                prompts.html('请输入正确的电话号码！');
+                prompts.show();
+                return false;
+        }
+        return true;
+    }
+
+
+
+
+    function Login(){
+        if($("#bname").val()==''||$("#bname").val()=='用户名'){
+            var prompts = $("#berror"); //修改
+            $("#bname").focus();
+            prompts.html('请输入用户名');
+            prompts.show();
+        }else if($("#bpwd").val()==''||$("#bpwd").val()=='密码'){
+            var prompts = $("#berror"); //修改
+            $("#bpwd").focus();
+            prompts.html('请输入密码');
+            prompts.show();
+        }else{
+            $.ajax({
+                    url: "http://club.qingdaonews.com/user/login.php",
+                    type:'POST',
+                    dataType: 'json',
+                    contentType: "application/x-www-form-urlencoded; charset=utf-8;",
+                    data:"username="+$("#bname").val()+"&pwd="+($("#bpwd").val()).replace(/\+/g,'%2B'),
+                    success: function(jsonre){
+                            if(jsonre.result=='error') {
+                                    errcss('bname',jsonre['error']);
+                                    //$("#btnLogin").attr("disabled", "true");
+                                    //$("#btnLogin").removeAttr("disabled");//启用按钮
+//                                    if(jsonre.status==0){
+//                                            window.location.href=jsonre['ref'];
+//                                    }
+                                    return false;
+                            } else if(jsonre.result=='success'){
+                                    //window.location.href=jsonre['ref'];
+                                    $('#cc').hide();
+                            }
+                    }
+            });
+        }
+    }
+    function errcss(whick, word){
+            var prompts = $("#berror"); //修改
+            $("#"+whick).focus();
+            prompts.html(word);
+            prompts.show();
+    }
+
+    $(document).keypress(function(event){
+        $("#berror").hide();
+        var keycode = (event.keyCode ? event.keyCode : event.which);
+        if(keycode == '13'){
+            Login();
+        }
+    });
+
+</script>
+<!--底部登录 e-->
+<script>
+
+function init_follow(){
+  var str_uidlist = ",";
+  jQuery.post(friends_url, { action: "getallfollowname" },
+    function(data) {
+      var result=eval("("+data+")");
+      for (var item in result) {
+        str_uidlist = str_uidlist.concat( item + "," );
+      };
+      //alert(str_uidlist);
+      $(".follow").each(function(){
+        $(this).unbind("click");
+        if (  str_uidlist.indexOf( $(this).attr("data-id") ) > -1 ){
+          $(this).text("[取消关注]");
+          $(this).bind("click",function(){
+            unfollowjs($(this).attr("data-id"),"?","switch");
+          });
+        }
+        else{
+          $(this).text("[加关注]");
+          $(this).bind("click",function(){
+            followjs($(this).attr("data-id"));
+          });
+        }
+      });
+    }
+  );
+}
+</script>
+<script src="script/ajax.js" type="text/javascript"></script>
+<script src="script/show2.js" type="text/javascript"></script>
+<script src="http://club.qingdaonews.com/script/usercenter/easydialog.js"></script>
+<script src="http://club.qingdaonews.com/script/usercenter/friends.js"></script>
+<script src="script/swfupload/swfupload.js" type="text/javascript"></script>
+<script src="script/swfupload/swfupload.queue.js" type="text/javascript"></script>
+<script src="script/swfupload/fileprogress.js" type="text/javascript"></script>
+<script src="script/swfupload/handlers.js" type="text/javascript"></script>
+<script type="text/javascript">
+    function checklogins(){
+        var username = $("#loginnamecheck").val();
+        if(username){
+        }else{
+            $(".thickbox").trigger('click');
+            exit();
+        }
+    }
+
+    var swfUploadobject, un = encodeURI(""), pw = "", board_id = "1240", md5="1";
+    $(function(){
+        loadswfUpload();
+    });
+
+    function loadswfUpload(){
+        // 判断用户是否登录
+        if(un && pw){
+            $("#upattachLogin").hide();
+            if(swfUploadobject == undefined ) {
+                initSwfUpload();
+                if(swfUploadobject == undefined){
+                    initSwfUpload();
+                }
+            }
+        } else {
+            $("#upattachLogin").show();
+        }
+    }
+
+    function initSwfUpload(){
+        $("#upattachMod").html("");
+        var settings = {
+            file_post_name:"Filedata",
+            post_params : {
+                "pw" : pw,
+                "un" : un,
+                "mark" : "watermarkindex",
+                "max" : "650",
+                "md5" : md5,
+                "act" : "upload",
+                "bid" : board_id,
+                "type" : 1
+            },
+            swf_domain:"http://club.qingdaonews.com/",
+            upload_url: "http://pic.qingdaonews.com/operate/pd_photo.php",
+            custom_settings:{progressTarget:"upList",thumbnail_height: 2000,thumbnail_width: 780,thumbnail_quality: 95},
+            file_types : "*.jpg;*.png;*.jpeg;",
+            file_types_description : "All Files",
+            file_upload_limit : 10,
+            file_queue_limit : 0,
+            progress:new FileProgress(),
+            initData:[],
+            debug: false,
+            editor: Editor.window,
+            image_dir_type : 1
+        };
+        swfUploadobject = new SWFUpload(settings);
+    }
+
+	//翻页跳转
+$(".goPage").click(function(){
+	var page = $(this).prev().val();
+	if (isNaN(page)) alert("不是一个有效的页码");
+	if (page>=1 && page<=1)
+		location.href="http://club.qingdaonews.com/showAnnounce_1240_409033_"+page+"_0.htm";
+	else
+		alert("不是一个有效的页码");
+});
+//帖子收藏
+    $(function(){
+       var username = encodeURI("");
+       var userpwd = "";
+       var board_id ="1240";
+       var topic_id ="409033";
+        $("#favorite").unbind("click").click(function(){
+            if(username && userpwd){
+                $.ajax({
+                    type: "GET",
+                    url: "xhr/favorite.php",
+                    data: 'act=addcp&uname='+username+'&upw='+userpwd+'&favid='+board_id+"&topic_id="+topic_id,
+                    dataType: "json",
+                    success: function(msg){
+                        if(msg.result=='success'){
+                            alert("收藏成功");
+                        }else{
+                            //alert('收藏失败');
+                            alert(msg.info);
+                        }
+                    },
+                    error:function(XMLHttpRequest, textStatus, errorThrown){
+                        alert('收藏失败');
+                    }
+                })
+            } else{
+                alert("登录后才能收藏");
+            }
+        });
+		//init_follow();
+
+        // 页面浮动面板
+        $("#floatPanel > .ctrolPanel > a.arrow").eq(0).click(function(){$("html,body").animate({scrollTop :0}, 800);return false;});
+        $("#floatPanel > .ctrolPanel > a.arrow").eq(1).click(function(){$("html,body").animate({scrollTop : $(document).height()}, 800);return false;});
+
+        var objPopPanel = $("#floatPanel > .popPanel");
+        var w = objPopPanel.outerWidth();
+        $("#floatPanel > .ctrolPanel > a.qrcode").bind({
+            mouseover : function(){
+                        objPopPanel.css("width","0px").show();
+                        objPopPanel.animate({"width" : w + "px"},300);return false;
+                },
+                mouseout : function(){
+                        objPopPanel.animate({"width" : "0px"},300);return false;
+                        objPopPanel.css("width",w + "px");
+            }
+        });
+        var loginhit = $.cookie('loginhit');
+        //alert(loginhit);
+        if (""=="" && 1240==30 && loginhit!='1') {
+        	//$('#upattachLogin_a').click();
+        	$('#upattachLogin_b').click();
+        	var date=new Date();
+			date.setTime(date.getTime()+300*1000);
+        	document.cookie="loginhit=1;expires="+date.toGMTString();
+        };
+    });
+
+</script>
+<!-- 小道消息的模板 BEGIN -->
+<div class="vtip" style="display:none">
+<h2 class="img"><strong class="z">小道消息</strong><a href="javascript:void(0);" id="popclose">关闭</a></h2>
+<div class="padding fl" id="showPagetips1"></div>
+</div>
+<!-- 小道消息的模板 END -->
+<script src="script/showpage.js"></script>
+</html>

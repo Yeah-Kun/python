@@ -1,25 +1,19 @@
+'''
+    保存所有url的标题
+'''
 from urllib.request import urlopen, HTTPError, URLError
 from bs4 import BeautifulSoup as bs   # Extract content
 import pickle    # save file
 from chardet.universaldetector import UniversalDetector
-import chardet
+
+
+# 
 all_url_file = open(
     "D:\\Users\\YeahKun\\Desktop\\TDcup\\data process\\all_url.pkl", "rb")
-
-# Analysis of Web site coding format
-
-
-def Detection_coding_format(html):
-    detector = UniversalDetector()
-    for line in html:
-        detector.feed(line)
-        if detector.done:
-            break
-    detector.close()
-    return detector.result['encoding']
-
 html = pickle.load(all_url_file)
-all_title = []
+all_url_file.close()
+
+
 n = 0
 k = 0
 for each in html:
@@ -29,13 +23,15 @@ for each in html:
         each_html = urlopen(each)  # open the page code
         chardet = Detection_coding_format(each_html)
         each_html = urlopen(each)
-        bs0bj = bs(each_html, from_encoding=chardet)
+        bs0bj = bs(each_html)
         title = bs0bj.find('title').get_text()
         title = str(n) + '.' + str(title) + '\r'
         pickle_file = open(
-            "D:\\Users\\YeahKun\\Desktop\\TDcup\\data process\\all_url_title2.txt", "a")
+            "D:\\Users\\YeahKun\\Desktop\\TDcup\\data process\\all_url_title2.txt", "a",encoding='gb18030')
         pickle_file.writelines(title)
         pickle_file.close()
+
+    # 异常处理
     except (HTTPError, ConnectionResetError, URLError, AttributeError, TypeError, UnicodeEncodeError) as reason:
         error_file = open(
             "D:\\Users\\YeahKun\\Desktop\\TDcup\\data process\\all_url_error2.txt", "a")
@@ -46,4 +42,3 @@ for each in html:
         print(reason)
         continue
 
-all_url_file.close()
