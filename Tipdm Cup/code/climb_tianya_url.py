@@ -1,3 +1,6 @@
+'''
+	爬取天涯论坛一万个url数据，用于测试
+'''
 from urllib.request import urlopen,HTTPError,URLError
 from bs4 import BeautifulSoup as bs
 import re

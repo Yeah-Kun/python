@@ -1,3 +1,6 @@
+'''
+    爬取泰迪杯官方给的所有url数据，爬取源代码，保存到all_url_data.pkl文件，错误收集并保存到all_url_error.txt文件
+'''
 from urllib.request import urlopen, HTTPError, URLError
 import os
 import pickle
@@ -6,6 +9,7 @@ import re
 from bs4 import BeautifulSoup as bs
 
 # 编码格式识别
+# 现在此函数已经失去作用，因为针对中文可以直接使用最强大的gb18030格式编码，它囊括所有中文编码格式
 def Detection_coding_format(html):
     detector = UniversalDetector()
     for line in html.readlines():
@@ -16,24 +20,25 @@ def Detection_coding_format(html):
     return detector.result['encoding']
 
 
-# open the jar
+# 获得官方给的所有url数据
 all_url_file = open(
     "D:\\Users\\YeahKun\\Desktop\\TDcup\\data process\\all_url.pkl", "rb")
+url = pickle.load(all_url_file)  # 提取url数据
+all_url_file.close()
 
-url = pickle.load(all_url_file)  # Take the pickles out of the jar
-n = 0
+n = 0   # 计时器，用于提取过程的提取和显示
+
+# 提取网站源代码主程序
 for each_url in url:
     try:
-        req = urlopen(each_url)
-        chardet = Detection_coding_format(req)
-        req = urlopen(each_url)
-        bs0bj = bs(req,from_encoding=chardet).get_text()
-        with open("D:\\Users\\YeahKun\\Desktop\\TDcup\\data process\\all_url_data.pkl", "ab") as pickle_file:
-        	pickle.dump(bs0bj, pickle_file)
-        	pickle_file.close()
+        req = urlopen(each_url)  # 提取单个网站源代码
+        bs0bj = bs(req)   # BeautifulSoup处理
+        bs0bj = str(bs0bj) # 将其字符串化，易于保存
+        with open("D:\\Users\\YeahKun\\Desktop\\TDcup\\data process\\all_url_data.txt", "a", encoding='gb18030') as pickle_file:
+        	pickle_file.write(bs0bj)
         n += 1
         print(n)
-    except (HTTPError, ConnectionResetError, URLError) as reason:
+    except (HTTPError, ConnectionResetError, URLError) as reason:    # 异常处理，遇到
         error_file = open(
             "D:\\Users\\YeahKun\\Desktop\\TDcup\\data process\\all_url_error_new.txt", "a")
         n += 1
@@ -42,4 +47,3 @@ for each_url in url:
         error_file.close()
         print(reason)
         continue
-all_url_file.close()
