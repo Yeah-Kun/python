@@ -18,16 +18,18 @@ def Detection_coding_format(html):
 
 #  爬取时间
 def Find_date(bs0bj):
-    date = re.search("发表于 \d{4}-\d{2}-\d{2}", bs0bj)
+    date = re.findall("发表于 \d{4}-\d{2}-\d{2}", bs0bj)
     if date == None:
-        date = re.search("\d{4}/\d{2}/\d{2}", bs0bj)
+        date = re.findall("\d{4}/\d{2}/\d{2}", bs0bj)
     if date == None:
-        date = re.search("\d{4}-\d{2}-\d{2}", bs0bj)
+        date = re.findall("\d{4}-\d{2}-\d{2}", bs0bj)
     if date == None:
-        date = re.search("\d{2}-\d{2}-\d{4}", bs0bj)
+        date = re.findall("\d{2}-\d{2}-\d{4}", bs0bj)
     if date == None:
-        date = re.search("时间 \d{4}/\d{2}/\d{2}", bs0bj)
-    return date
+        date = re.findall("时间 \d{4}/\d{2}/\d{2}", bs0bj)
+ #   date = str(date)
+    dict_date = { 'publish_date':date}
+    return dict_date
 
 
 # 文件夹路径
@@ -49,7 +51,7 @@ for each in html:
         print(n)
 
         #
-        each_html = urlopen(each)
+        each_html = urlopen(each,timeout=3)
         chardet = Detection_coding_format(each_html)
         each_html = urlopen(each)
         bs0bj = bs(each_html, from_encoding=chardet).get_text()
@@ -58,14 +60,14 @@ for each in html:
         print(date)
         date = str(n) + '.' + str(date) + '\r'
         pickle_file = open(
-            path + "all_url_date.txt", "a")
+            path + "all_url_date.txt", "w")
         pickle_file.writelines(date)
         pickle_file.close()
 
     # 异常处理
     except (HTTPError, ConnectionResetError, URLError, AttributeError, TypeError, UnicodeEncodeError) as reason:
         error_file = open(
-            path + "all_url_date_error.txt", "a")
+            path + "all_url_date_error.txt", "w")
         n += 1
         reason = str(n) + '.' + str(reason) + '\r'
         error_file.writelines(reason)
