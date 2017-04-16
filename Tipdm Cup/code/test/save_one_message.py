@@ -6,9 +6,9 @@ from bs4 import BeautifulSoup as bs   # Extract content
 import re
 
 # 网址
-url = "http://bbs.rednet.cn/thread-46761095-1-1.html"
+url = "https://maijia.bbs.taobao.com/detail.html?spm=a210m.7699124.0.0.NXNfTI&postId=6838418"
 req = urlopen(url)
-bs0bj = bs(req)
+bs0bj = bs(req,"xml")
 
 # 打开文件，保存网址源代码，关闭文件
 path = "D:\\Users\\YeahKun\\Desktop\\TDcup\\data process\\"

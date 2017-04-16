@@ -6,6 +6,7 @@ import os
 import pickle
 from chardet.universaldetector import UniversalDetector
 import re
+import socket
 from bs4 import BeautifulSoup as bs
 
 # 编码格式识别
@@ -27,18 +28,21 @@ url = pickle.load(all_url_file)  # 提取url数据
 all_url_file.close()  # 提取完之后，关闭文件，否则会引起错误
 
 n = 0   # 计时器，用于提取过程的提取和显示
-
+k = 0
 # 提取网站源代码主程序
 for each_url in url:
     try:
-        req = urlopen(each_url)  # 提取单个网站源代码
+        req = urlopen(each_url,timeout=2)  # 提取单个网站源代码
         bs0bj = bs(req)   # BeautifulSoup处理
         bs0bj = str(bs0bj) # 将其字符串化，易于保存
-        with open("D:\\Users\\YeahKun\\Desktop\\TDcup\\data process\\all_url_data.txt", "a", encoding='gb18030') as pickle_file:
-        	pickle_file.write(bs0bj)
+        if re.findall("发表于",bs0bj) != None:
+            k = k+1
+#        with open("D:\\Users\\YeahKun\\Desktop\\TDcup\\data process\\all_url_data.txt", "a", encoding='gb18030') as pickle_file:
+ #       	pickle_file.write(bs0bj)
         n += 1
         print(n)
-    except (HTTPError, ConnectionResetError, URLError) as reason:    # 异常处理
+        print(k)
+    except (HTTPError, ConnectionResetError, URLError,socket.timeout) as reason:    # 异常处理
         error_file = open(
             "D:\\Users\\YeahKun\\Desktop\\TDcup\\data process\\all_url_error_new.txt", "a")
         n += 1
@@ -47,3 +51,5 @@ for each_url in url:
         error_file.close()
         print(reason)
         continue
+
+print(k)
