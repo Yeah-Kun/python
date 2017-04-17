@@ -21,5 +21,6 @@ file_keep.close()
 #result = tree.xpath('/html')
 # print(result)
 tree = etree.HTML(bs0bj)  # 用HTML方法解析文件
-result = tree.xpath('/html/body/div/div[5]//text()') # 找到这个绝对路径下的文本内容
-print(result)
+root = tree.getchildren()
+root = tree.xpath('/html/body') # 找到这个绝对路径下的文本内容
+print(type(root))

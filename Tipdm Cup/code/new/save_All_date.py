@@ -60,12 +60,12 @@ for each in html:
         print(date)
         date = str(n) + '.' + str(date) + '\r'
         pickle_file = open(
-            path + "all_url_date.txt", "w")
+            path + "all_url_date.txt", "a")
         pickle_file.writelines(date)
         pickle_file.close()
 
     # 异常处理
-    except (HTTPError, ConnectionResetError, URLError, AttributeError, TypeError, UnicodeEncodeError) as reason:
+    except (HTTPError, ConnectionResetError, URLError, AttributeError, TypeError, UnicodeEncodeError,timeout) as reason:
         error_file = open(
             path + "all_url_date_error.txt", "w")
         n += 1
