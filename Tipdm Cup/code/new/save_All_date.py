@@ -28,7 +28,6 @@ def Find_date(bs0bj):
     if date == None:
         date = re.findall("时间 \d{4}/\d{2}/\d{2}", bs0bj)
  #   date = str(date)
-    dict_date = { 'publish_date':date}
     return dict_date
 
 

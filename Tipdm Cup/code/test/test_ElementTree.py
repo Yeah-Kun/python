@@ -9,7 +9,7 @@ from urllib.request import urlopen
 path = "D:\\Users\\YeahKun\\Desktop\\TDcup\\data process\\"
 
 # 由于'r'遇到错误，用'rb'就可以成功读取，原因之后再找
-file_keep = open(path + "one_url_data.html", 'rb')
+file_keep = open(path + "one_url_data.txt", 'rb')
 bs0bj = file_keep.read().decode('gb18030')  # 进行编码读取
 file_keep.close()
 
@@ -27,7 +27,9 @@ root = tree.xpath('/html//*') # 找到这个绝对路径下的文本内容
 #children = tree[1][7]# 可以把它的子节点赋给children,类型是_Element类型/html/body/div[5]/div[5]
 tag_path ="/html/body/div[5]/"
 children = tree.xpath(tag_path+'div[5]//*')
-children2 = tree.xpath(tag_path+'div[6]//*')
+#children2 = tree.xpath(tag_path+'div[9]//*')
+print(children)
+'''
 print(children)
 for children_tag in children:
 	List_children_tag.append(children_tag.tag)
@@ -42,14 +44,14 @@ for children_tag in children2:
 #print(type(tree[1].tag))
 #print(type(tree))
 #print(root)
-'''
+
 List_tag = []
 def Traverse(tree,flag):
 	for child in tree:
 		List_tag.append(child.tag)
 		if len(List_tag) >= flag:
 			break
-'''
+
 def List_Count_Tag(children):
 	List_tag = []
 	if 'a' in children:
@@ -76,3 +78,4 @@ def List_Count_Tag(children):
 
 print(List_Count_Tag(List_children_tag))
 print(List_Count_Tag(List_children_tag2))
+'''
