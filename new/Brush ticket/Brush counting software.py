@@ -1,4 +1,5 @@
 '''
+    2017年6月1日22:53:56
     “我行我素”竞赛刷票插件
     主要是用于给自己队伍刷票用的
 '''
@@ -26,13 +27,14 @@ headers = {
 url = "http://www.dingnf.com/active/wxws_t"
 params = {'ids': ['22', '22', '22']}
 
+
 def WriteIPadress():
-    all_url = [] # 存储IP地址的容器
+    all_url = []  # 存储IP地址的容器
     # 代理IP的网址
     url = "http://api.xicidaili.com/free2016.txt"
     r = requests.get(url=url)
-    all_url = re.findall("\d+\.\d+\.\d+\.\d+\:\d+",r.text)
-    with open("D:\\code\\python\\new\\Brush ticket\\IP.txt",'w') as f:
+    all_url = re.findall("\d+\.\d+\.\d+\.\d+\:\d+", r.text)
+    with open("D:\\code\\python\\new\\Brush ticket\\IP.txt", 'w') as f:
         for i in all_url:
             f.write(i)
             f.write('\n')
@@ -40,16 +42,16 @@ def WriteIPadress():
 
 # 计数器
 count = 0
-while count<4000:
+while count < 4000:
     all_url = WriteIPadress()
     for i in all_url:
         proxies = {"http": i}
         try:
-            r = requests.post(url=url, data=params, headers=headers, proxies=proxies)
+            r = requests.post(url=url, data=params,
+                              headers=headers, proxies=proxies, timeout=10)
             if(r.json()['flag'] == True):
                 count += 1
                 print("成功投票%d次！" % (count))
             print(r.json())
         except Exception as reason:
-            print("错误原因是：",reason)
-
+            print("错误原因是：", reason)
