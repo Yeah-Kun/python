@@ -26,9 +26,9 @@ def result(request):
         except:
             ctx['ErrorMessage'] = u'账号或密码输入错误，请检查'
 
-        return render(request, 'srsys/result.html',ctx)
+        return render(request, 'srsys/index.html',ctx)
 
     else:
         ctx['ErrorMessage'] = u'未输入完整'
-        return render(request, 'srsys/result.html', ctx)
+        return render(request, 'srsys/index.html', ctx)
 
