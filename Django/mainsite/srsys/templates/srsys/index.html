@@ -18,8 +18,14 @@
 .STYLE3 {
 	font-size: 16px;
 	font-family: "宋体";
+    display:inline-block;
+    width:65px;height:30px;
 }
-
+.STYLE4{
+	font-size: 16px;
+	font-family: "宋体";
+    color: #F20505;
+}
 .STYLE5 {font-size: 18px; font-family: "宋体";}
 .STYLE6 {
 	font-family: Arial, Helvetica, sans-serif;
@@ -29,6 +35,25 @@
 	font-family: "宋体";
 	font-size: 16px;
 	color: #999999;
+}
+.btm {
+ height:45px;
+z-index:999; position:fixed; bottom:0px; left:0px; width:100%; _position:absolute;
+ _top: expression_r(documentElement.scrollTop + documentElement.clientHeight-this.offsetHeight); overflow:visible ; background:url('{{Advertimg1}}');}
+
+.btm a {
+height:45px;
+display:block;
+}
+
+.btm2 {
+ height:45px;
+z-index:999; position:fixed; bottom:45px; left:0px; width:100%; _position:absolute;
+ _top: expression_r(documentElement.scrollTop + documentElement.clientHeight-this.offsetHeight); overflow:visible ; background:url('{{Advertimg2}}');}
+
+.btm2 a {
+height:45px;
+display:block;
 }
 -->
 </style>
@@ -42,30 +67,44 @@
 <p>&nbsp;</p>
 <form action="{% url 'srsys:result' %}" method="post">
   {% csrf_token %}
-  <label>
   <div align="center">
     <p><span class="STYLE3">考生姓名</span>
-      <input name="InputName" type="text" class="STYLE7" id="InputName" value="请输入考生姓名" maxlength="7"
+      <input name="InputName" type="text" class="STYLE7" id="InputName" value="请输入考生姓名" maxlength="7" style="width:200px; height:30px;"
 	   onfocus='if(this.value=="请输入考生姓名"){this.value="";}; '
 	   onblur='if(this.value==""){this.value="请输入考生姓名";};'>
     </p>
   </p>
   </div>
-  </label>
+
   <div align="center">
     <p><span class="STYLE3">准考证号</span>
-        <input name="InputStuNum" type="text" class="STYLE7" id="InputStuNum" value="请输入十位考生号" maxlength="10"
+        <input name="InputStuNum" type="text" class="STYLE7" id="InputStuNum" value="请输入十位考生号" maxlength="10" style="width:200px; height:30px;"
 		onfocus='if(this.value=="请输入十位考生号"){this.value="";}; '
 		onblur='if(this.value==""){this.value="请输入十位考生号";};'>
     </p>
   </div>
-  </label>
-  <p>&nbsp;</p>
+  <script>
+    function refresh_check_code(ths) {
+        ths.src += '?';
+        //src后面加问号会自动刷新验证码img的src
+}
+</script>
   <div align="center">
-    <input type="submit" class="STYLE6" value="                查询                "  style="background:#7DB522;color:white " />
+    <p align="center"><span class="STYLE3">验证码</span>
+      <input name="InputVerifyCode" type="text" class="STYLE7" id="InputVerifyCode" value="请输入验证码" maxlength="6" style="width:117px; height:30px;"
+		onFocus='if(this.value=="请输入验证码"){this.value="";}; '
+		onBlur='if(this.value==""){this.value="请输入验证码";};'>
+      <img src="/srsys/create_code/" width="83" height="40" onclick="refresh_check_code(this)" align="absmiddle"></p>
+  </div>
+  <p>&nbsp;</p>
+    <p align="center" class="STYLE4">{{ ErrorMessage }}</p>
+  <div align="center">
+    <input type="submit" class="STYLE6" value="                查询                "  style="width:230px;height:30px;background:#7DB522;color:white " />
   </div>
 </form>
-    <p align="center" class="STYLE3">{{ ErrorMessage }}</p>
+
+    <div class="btm2"><a href="{{Adverturl2}}"></a></div>
+    <div class="btm"><a href="{{Adverturl1}}"></a></div>
 </body>
 
 </html>

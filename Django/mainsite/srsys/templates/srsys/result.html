@@ -26,6 +26,25 @@
 	color: #F20505;
 }
 .STYLE8 {color: #F20505}
+.btm {
+ height:45px;
+z-index:999; position:fixed; bottom:0px; left:0px; width:100%; _position:absolute;
+ _top: expression_r(documentElement.scrollTop + documentElement.clientHeight-this.offsetHeight); overflow:visible ; background:url('{{Advertimg1}}');}
+
+.btm a {
+height:45px;
+display:block;
+}
+
+.btm2 {
+ height:45px;
+z-index:999; position:fixed; bottom:45px; left:0px; width:100%; _position:absolute;
+ _top: expression_r(documentElement.scrollTop + documentElement.clientHeight-this.offsetHeight); overflow:visible ; background:url('{{Advertimg2}}');}
+
+.btm2 a {
+height:45px;
+display:block;
+}
 -->
 </style>
 </head>
@@ -84,7 +103,8 @@
     <div align="center">
     <a href="{% url 'srsys:index' %}"><input type="button" class="STYLE6" value="                退出                "  style="background:#7DB522;color:white " />
     </div>
-
+    <div class="btm2"><a href="{{Adverturl2}}"></a></div>
+    <div class="btm"><a href="{{Adverturl1}}"></a></div>
 </body>
 
 </html>
