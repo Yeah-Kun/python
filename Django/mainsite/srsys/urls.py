@@ -7,4 +7,4 @@ urlpatterns = [
     url(r'^$', views.index, name='index'), # name用于反向解析
     url(r'^create_code/$',views.create_code_img), # post验证码
     url(r'^result/$',views.result,name='result') # 成绩展示页面
-]+static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
+]

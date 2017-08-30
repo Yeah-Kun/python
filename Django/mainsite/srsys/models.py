@@ -21,6 +21,6 @@ class Advert(models.Model):
         verbose_name = "广告"
         verbose_name_plural = "广告"
 
-    img = models.ImageField("广告图片(尺寸:325px*45px)", upload_to="advert")
+    img = models.ImageField("广告图片(尺寸:325px*45px)", upload_to="update")
     advert_url = models.URLField(verbose_name="广告链接")
     advert_num = models.IntegerField(verbose_name="广告序号")

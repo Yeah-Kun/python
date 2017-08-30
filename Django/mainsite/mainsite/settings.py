@@ -123,6 +123,6 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/1.11/howto/static-files/
 
 MEDIA_URL = '/advert/' # 表示从web根目录开始的URL映射
-MEDIA_ROOT =os.path.join(BASE_DIR, 'advert') # 保存用户上传的文件的路径
+MEDIA_ROOT =os.path.join(BASE_DIR, 'srsys/advert') # 保存用户上传的文件的路径
 STATIC_URL = '/static/'
 STATIC_ROOT = os.path.join(BASE_DIR,'static/')

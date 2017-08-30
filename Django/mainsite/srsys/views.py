@@ -17,8 +17,8 @@ def index(request):
 
     ctx['Adverturl1'] = Advert_1.advert_url
     ctx['Adverturl2'] = Advert_2.advert_url
-    ctx['Advertimg1'] = str(Advert_1.img)
-    ctx['Advertimg2'] = str(Advert_2.img)
+    ctx['Advertimg1'] = '/advert/'+ str(Advert_1.img)
+    ctx['Advertimg2'] = '/advert/'+ str(Advert_2.img)
     return render(request, 'srsys/index.html',ctx)
 
 
@@ -30,8 +30,8 @@ def result(request):
 
     ctx['Adverturl1'] = Advert_1.advert_url
     ctx['Adverturl2'] = Advert_2.advert_url
-    ctx['Advertimg1'] = str(Advert_1.img)
-    ctx['Advertimg2'] = str(Advert_2.img)
+    ctx['Advertimg1'] = '/advert/' + str(Advert_1.img)
+    ctx['Advertimg2'] = '/advert/' + str(Advert_2.img)
     if request.POST['InputStuNum']!='请输入十位考生号' or request.POST['InputName']!='请输入考生姓名':
         if request.POST['InputVerifyCode'] == request.session.get('check_code'): # 判断输入的验证码与session里面的是否一致
             try:
