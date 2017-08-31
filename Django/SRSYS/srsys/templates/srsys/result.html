@@ -1,0 +1,112 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=2.0, user-scalable=yes" />  
+<title>广东省美术教育协会</title>
+    <script>
+function turnoff(obj){
+document.getElementById(obj).style.display="none";
+}
+</script>
+<style type="text/css">
+<!--
+.STYLE1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 28px;
+}
+.STYLE2 {
+	font-family: "宋体";
+	font-size: 14px;
+	color: #999999;
+}
+.STYLE5 {
+	font-size: 16px;
+	font-family: "宋体";
+}
+.STYLE6 {font-size: 16px}
+.STYLE7 {
+	font-family: "宋体";
+	font-size: 14px;
+	color: #F20505;
+}
+.STYLE8 {color: #F20505}
+.btm {
+ height:45px;
+z-index:999; position:fixed; bottom:0px; left:0px; width:100%; _position:absolute;
+ _top: expression_r(documentElement.scrollTop + documentElement.clientHeight-this.offsetHeight); overflow:visible ; background:url('{{Advertimg1}}');}
+
+.btm a {
+height:45px;
+display:block;
+}
+
+.btm2 {
+ height:45px;
+z-index:999; position:fixed; bottom:45px; left:0px; width:100%; _position:absolute;
+ _top: expression_r(documentElement.scrollTop + documentElement.clientHeight-this.offsetHeight); overflow:visible ; background:url('{{Advertimg2}}');}
+
+.btm2 a {
+height:45px;
+display:block;
+}
+-->
+</style>
+</head>
+
+<body>
+<div align="center" class="STYLE1">
+  <p>蓝天模考</p>
+</div>
+<div align="center" class="STYLE2">
+  <p>2018 广东省美术术科一模成绩查询</p>
+  <p>&nbsp;</p>
+</div>
+<div align="center" class="STYLE2">
+  <p align="left">您的成绩如下</p>
+</div>
+<div align="center">
+  <table width="280" border="0" align="center">
+    <tr>
+      <td width="107"><div align="right"><span class="STYLE5">考生姓名</span></div></td>
+      <td width="42">&nbsp;</td>
+      <td width="117"><div align="left"><span class="STYLE5">{{ name }}</span></div></td>
+    </tr>
+    <tr>
+      <td><div align="right"><span class="STYLE5">准考证号</span></div></td>
+      <td>&nbsp;</td>
+      <td><div align="left"><span class="STYLE5">{{ studentnum }}</span></div></td>
+    </tr>
+    <tr>
+      <td><div align="right"><span class="STYLE5">色彩</span></div></td>
+      <td>&nbsp;</td>
+      <td><div align="left"><span class="STYLE5">{{ color }}</span></div></td>
+    </tr>
+    <tr>
+      <td><div align="right"><span class="STYLE5">速写</span></div></td>
+      <td>&nbsp;</td>
+      <td><div align="left"><span class="STYLE5">{{ sketch }}</span></div></td>
+    </tr>
+    <tr>
+      <td><div align="right"><span class="STYLE5">素描</span></div></td>
+      <td>&nbsp;</td>
+      <td><div align="left"><span class="STYLE5">{{ linedraw}}</span></div></td>
+    </tr>
+    <tr>
+      <td><div align="right"><span class="STYLE5">总分</span></div></td>
+      <td>&nbsp;</td>
+      <td><div align="left"><span class="STYLE5">{{ total }}</span></div></td>
+    </tr>
+  </table>
+  <p>&nbsp;</p>
+</div>
+
+
+    <div align="center" class="STYLE7">
+      <p class="STYLE8">注：成绩单以试卷上的分数为准    </p>
+    </div>
+    <div id="advert1" class="btm2"><a href="#" style="float:Right" onclick="javascript:turnoff('advert1')">X</a><a href="{{Adverturl2}}"></a></div>
+    <div id="advert2" class="btm"><a href="#" style="float:Right" onclick="javascript:turnoff('advert2')">X</a><a href="{{Adverturl1}}"></a></div>
+</body>
+
+</html>
