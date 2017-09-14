@@ -8,7 +8,7 @@
 
 import time
 from naoqi import ALProxy
-robot_ip = "192.168.1.103" #NAO的IP地址。注：确保主机和NAO处于同一局域网
+robot_ip = "192.168.1.102" #NAO的IP地址。注：确保主机和NAO处于同一局域网
 robot_port = 9559   # default port : 9559
 motionProxy = ALProxy("ALMotion", robot_ip, robot_port)
 postureProxy = ALProxy("ALRobotPosture", robot_ip, robot_port)

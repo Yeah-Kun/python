@@ -14,7 +14,7 @@ from optparse import OptionParser
 
 from detail import Sound_location_walk_module
 
-NAO_IP = "192.168.1.101"
+NAO_IP = "192.168.1.102"
 
 motion = ALProxy("ALMotion", NAO_IP, 9559)
 motion.moveInit()

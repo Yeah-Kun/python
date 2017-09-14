@@ -1,6 +1,6 @@
 # -*- encoding: UTF-8 -*-
 """ 测试ALSoundLocalization用法
-    update by Ian in 2017-9-3 14:51:11
+    create by Ian in 2017-9-3 14:51:11
     解决方法：
         1. setParameter设置灵敏度参数
         2. subscribe订阅这个事件
@@ -13,6 +13,7 @@
           [Head Position[6D]] in FRAME_TORSO
           [Head Position[6D]] in FRAME_ROBOT
         ]
+
 """
 from naoqi import ALModule
 from naoqi import ALProxy
@@ -22,8 +23,8 @@ import time
 import argparse
 
 
-class Motion(ALModule):
-    """控制机器人的动作"""
+class ALSound(ALModule):
+    """启动机器人声音监听模块，获取声音的具体方位、高度等信息"""
 
     def __init__(self, name):
         ALModule.__init__(self, name)  # 需要先调用父类的初始化方法
@@ -46,7 +47,7 @@ class Motion(ALModule):
             while True:
                 time.sleep(1)
                 data = self.memory.getData('ALSoundLocalization/SoundLocated')
-                print data
+                print data[1]
         except KeyboardInterrupt:
             print
             print "Interrupted by user, shutting down"
@@ -55,7 +56,7 @@ class Motion(ALModule):
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
-    parser.add_argument("--ip", type=str, default="192.168.1.102",
+    parser.add_argument("--ip", type=str, default="192.168.1.100",
                         help="192.168.1.101")
     parser.add_argument("--port", type=int, default=9559,
                         help="9987")
@@ -66,6 +67,6 @@ if __name__ == '__main__':
 
     # 设置代理
     myBroker = ALBroker("myBroker", "0.0.0.0", 0, args.ip, args.port)
-    mymotion = Motion('mymotion')
+    mymotion = ALSound('mymotion')
     mymotion.SoundLocalization()
     myBroker.shutdown()

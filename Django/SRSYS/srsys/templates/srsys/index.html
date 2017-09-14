@@ -4,55 +4,121 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=2.0, user-scalable=yes" />  
 <title>广东省美术教育协会</title>
-      <script>
+<script>
     function refresh_check_code(ths) {
         ths.src += '?';
         //src后面加问号会自动刷新验证码img的src
         }
-    function turnoff(obj){
+function turnstatic(obj){
+document.getElementById(obj).style.bottom="0px";
+document.getElementById(obj).style.position="static";
+
+}
+
+function turnfixed(obj){
+document.getElementById(obj).style.position="fixed";
+}
+function turnoff(obj){
 document.getElementById(obj).style.display="none";
 }
 function turnon(obj){
-document.getElementById(obj).style.display="inline";
+document.getElementById(obj).style.display="block";
 }
 
 </script>
 <style type="text/css">
 <!--
-.STYLE1 {
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 28px;
+
+.weui-cell_vcode {
+  padding-top: 0;
+  padding-right: 0;
+  padding-bottom: 0;
 }
-.STYLE2 {
-	font-family: "宋体";
-	font-size: 14px;
-	color: #999999;
+.weui-cell__bd {
+  content: " ";
+  display: inline-block;
+  height: 6px;
+  width: 6px;
+  border-width: 2px 2px 0 0;
+  border-color: #C8C8CD;
+  border-style: solid;
+  -webkit-transform: matrix(0.71, 0.71, -0.71, 0.71, 0, 0);
+          transform: matrix(0.71, 0.71, -0.71, 0.71, 0, 0);
+  position: relative;
+  top: -2px;
+  position: absolute;
+  top: 50%;
+  right: 15px;
+  margin-top: -4px;
+}
+.weui-btn_primary {
+    background-color: #1AAD19;
+}
+.weui-btn {
+    position: relative;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 14px;
+    padding-right: 14px;
+    box-sizing: border-box;
+    font-size: 18px;
+    text-align: center;
+    text-decoration: none;
+    color: #FFFFFF;
+    line-height: 2.55555556;
+    border-radius: 5px;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    overflow: hidden;
+}
+.weui-input {
+    border: 0;
+    outline: 0;
+    -webkit-appearance: none;
+    background-color: transparent;
+    font-size: inherit;
+    color: inherit;
+    height: 20px;
+    line-height: 1.47058824;
+	display:inline-block;
+}
+
+.weui-cells {
+	margin-top: 10px;
+	background-color: #FFFFFF;
+	line-height: 1.47058824;
+	font-size: 17px;
+	overflow: hidden;
+	position: relative;
+}
+.weui-cells:before {
+    content: " ";
+    position: absolute;
+    left: 0;
+	bottom: 0px;
+    right: 0;
+    height: 1px;
+    border-top: 1px solid #e5e5e5;
+   
 }
 .STYLE3 {
-	font-size: 16px;
 	font-family: "宋体";
-    display:inline-block;
-    width:65px;height:30px;
+	font-size: inherit;
+	display:inline-block;
+	word-wrap: break-word;
+	word-break: break-all;
+	width:90px;
+	color: #000000;
 }
 .STYLE4{
 	font-size: 16px;
 	font-family: "宋体";
     color: #F20505;
 }
-.STYLE5 {font-size: 18px; font-family: "宋体";}
-.STYLE6 {
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 18px;
-}
-.STYLE7 {
-	font-family: "宋体";
-	font-size: 16px;
-	color: #999999;
-}
 .btm {
  height:45px;
-z-index:999; position:fixed; bottom:0px; left:0px; width:100%; _position:absolute;
- _top: expression_r(documentElement.scrollTop + documentElement.clientHeight-this.offsetHeight); overflow:visible ; background:url('{{Advertimg1}}');}
+ display:block;
+ position:fixed; bottom:0px; left:0px; width:100%; background:url('{{Advertimg1}}');}
 
 .btm a {
 height:45px;
@@ -60,54 +126,94 @@ display:block;
 }
 
 .btm2 {
- height:45px;
-z-index:999; position:fixed; bottom:45px; left:0px; width:100%; _position:absolute;
- _top: expression_r(documentElement.scrollTop + documentElement.clientHeight-this.offsetHeight); overflow:visible ; background:url('{{Advertimg2}}');}
+height:45px;
+z-index:999; position:fixed; bottom:45px; left:0px; width:100%;
+display:block;
+background:url('{{Advertimg2}}');}
 
 .btm2 a {
 height:45px;
 display:block;
 }
+
+.page__desc {
+    left:0px;
+    right:0px;
+    top: 80px;
+    color: #888;
+	position:absolute;
+	display:block;
+    font-size: 15px;
+}
+.STYLE8 {
+left:0px;
+right:0px;
+top: 0px;
+position:absolute;
+text-align: center;
+display:block;
+font-size: 30px
+}
+
+.STYLEform {
+    left:0px;
+    right:0px;
+    top: 145px;
+    color: #888;
+	position:absolute;
+	display:block;
+}
+.STYLE9 {font-size: 9px; font-family: "宋体"; color: #F20505; }
+.STYLE11 {
+	font-family: "宋体";
+	font-size: 9;
+	display: inline-block;
+	word-wrap: break-word;
+	word-break: break-all;
+	width: 90px;
+	color: #000000;
+}
+.STYLE13 {font-family: "宋体"; font-size: inherit; display: inline-block; word-wrap: break-word; word-break: break-all; width: 90px; color: #000000; }
 -->
 </style>
 </head>
 
 <body>
-<div align="center" class="STYLE1">
+<div align="center" class="STYLE8">
   <p>蓝天模考</p>
 </div>
-<div align="center" class="STYLE2">2018 广东省美术术科一模成绩查询</div>
+<div align="center" class="page__desc">2018 广东省美术术科一模成绩查询</div>
 <p>&nbsp;</p>
-<form action="{% url 'srsys:result' %}" method="post">
+
+<form id="GOGO" action="{% url 'srsys:result' %}" method="post"  class="STYLEform">
   {% csrf_token %}
-    <div align="center">
-    <p><span class="STYLE3">考生姓名</span>
-      <input name="InputName" type="text" class="STYLE7" id="InputName" value="请输入考生姓名" maxlength="7" style="width:200px; height:30px;"
-	   onfocus="turnoff('advert1');turnoff('advert2');if(this.value=='请输入考生姓名'){this.value='';}; "
-	   onblur="turnon('advert1');turnon('advert2');if(this.value==''){this.value='请输入考生姓名';};"></p>
+  <div class="weui-cells">
+    <span class="STYLE11">　考生姓名</span>
+      <input name="InputName" type="text" class="weui-input" id="InputName" placeholder="请输入考生姓名" maxlength="5"  style="width:150px;height:30px"
+	   onfocus="turnoff('advert1');turnoff('advert2'); "
+	   onblur="turnon('advert1');turnon('advert2');">
   </div>
+  <div class="weui-cells">
+    <span class="STYLE13">　准考证号</span>
+       <input name="InputStuNum" type="text" class="weui-input" id="InputStuNum" placeholder="请输入十位考生号" maxlength="10" style="width:160px;height:30px"
+	   onfocus="turnoff('advert1');turnoff('advert2'); "
+	   onblur="turnon('advert1');turnon('advert2');"> 
+  </div>
+  <div  class="weui-cells">
+    <span class="STYLE3">　验证码</span>
+      <input name="InputVerifyCode" type="text" class="weui-input" id="InputVerifyCode" placeholder="请输入验证码" maxlength="6" style="width:120px;height:30px"
+	   onfocus="turnoff('advert1');turnoff('advert2'); "
+	   onblur="turnon('advert1');turnon('advert2');">
+      <img src="/srsys/code/" width="65" height="35" onclick="refresh_check_code(this)" align="absmiddle">  </div>
+   <div> 
+   <p align="center" class="STYLE9">&nbsp;</p>
+   <p align="center" class="STYLE4">{{ ErrorMessage }}</p>
+   </div>
   <div align="center">
-    <p><span class="STYLE3">准考证号</span>
-        <input name="InputStuNum" type="text" class="STYLE7" id="InputStuNum" value="请输入十位考生号" maxlength="10" style="width:200px; height:30px;"
-	   onfocus="turnoff('advert1');turnoff('advert2');if(this.value=='请输入十位考生号'){this.value='';}; "
-	   onblur="turnon('advert1');turnon('advert2');if(this.value==''){this.value='请输入十位考生号';};">
-    </p>
-  </div>
-  <div align="center">
-    <p align="center"><span class="STYLE3">验证码</span>
-      <input name="InputVerifyCode" type="text" class="STYLE7" id="InputVerifyCode" value="请输入验证码" maxlength="6" style="width:117px; height:30px;"
-	   onfocus="turnoff('advert1');turnoff('advert2');if(this.value=='请输入验证码'){this.value='';}; "
-	   onblur="turnon('advert1');turnon('advert2');if(this.value==''){this.value='请输入验证码';};">
-      <img src="/srsys/code/" width="83" height="40" onclick="refresh_check_code(this)" align="absmiddle"></p>
-  </div>
-  <p>&nbsp;</p>
-    <p align="center" class="STYLE4">{{ ErrorMessage }}</p>
-  <div align="center">
-    <input type="submit" class="STYLE6" value="                查询                "  style="width:230px;height:30px;background:#7DB522;color:white " />
-  </div>
+    <a href="#" class="weui-btn weui-btn_primary" style="width:280px;" onclick="document.getElementById('GOGO').submit();return false" >查询</a>  </div>
 </form>
-    <div id="advert2" class="btm2"><a href="#" style="float:Right" onclick="javascript:turnoff('advert2')">X</a><a href="{{Adverturl2}}"></a></div>
-    <div id="advert1" class="btm"><a href="#" style="float:Right" onclick="javascript:turnoff('advert1')">X</a><a href="{{Adverturl1}}"></a></div>
+    <div id="advert2" class="btm2"><a href="#" style="float:Right" onclick="javascript:turnoff('advert2')">X</a></div>
+    <div id="advert1" class="btm"><a href="#" style="float:Right" onclick="javascript:turnoff('advert1')">X</a></div>
 </body>
 
 </html>
