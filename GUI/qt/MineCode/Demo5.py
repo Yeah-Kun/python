@@ -45,7 +45,8 @@ class Window(class_basic_class, class_ui):
         super(Window, self).__init__() 
         self.url = "http://www.mzitu.com/"
         self.setupUi(self)
-        totlist = Mzitu(self.url).printli()
+        totlist = Mzitu(self.url).printli() # 创建Mzitu类，打印出列表
+        
         self.tableWidget.setRowCount(len(totlist))
         self.tableWidget.setColumnCount(2)
         self.tableWidget.setColumnWidth(0, 435)
