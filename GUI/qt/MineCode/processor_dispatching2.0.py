@@ -302,7 +302,7 @@ class UIRR(QWidget):
         self.split.addWidget(self.tabw)
         self.grid.addLayout(self.hbox, 1, 1)
         self.grid.addWidget(self.split, 2, 1)
-        self.grid.setRowStretch(1, 10)  # 设置长度比例
+        self.grid.setRowStretch(1, 10)  # 设置宽度比例
         self.grid.setRowStretch(2, 90)
         self.setLayout(self.grid)
         self.newTask.clicked.connect(self.addTask)
@@ -519,6 +519,7 @@ class Window(QTabWidget):
         self.HRRF = UIHRRF()
         self.initUI()
         self.resize(1200, 600)
+        self.setWindowTitle("处理机调度算法") # 设置窗口标题
 
     def initUI(self):
         '''初始化UI'''
