@@ -1,0 +1,26 @@
+<annotation>
+	<folder>temp2</folder>
+	<filename>1534479830.3.jpg</filename>
+	<path>D:\studyINF\AI\YOLOv3\yolo_img3\temp2\1534479830.3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>278</xmin>
+			<ymin>187</ymin>
+			<xmax>305</xmax>
+			<ymax>212</ymax>
+		</bndbox>
+	</object>
+</annotation>

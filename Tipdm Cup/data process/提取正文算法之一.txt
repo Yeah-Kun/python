@@ -1,0 +1,44 @@
+int preTextLen = 0;         // 记录上一次统计的字符数量（lines就是去除html标签后的文本，_limitCount是阈值，_depth是我们要分析的深度，sb用于记录正文）
+int startPos = -1;          // 记录文章正文的起始位置
+for (int i = 0; i < lines.Length - _depth; i++)
+{    
+	int len = 0;    
+	for (int j = 0; j < _depth; j++)    
+	{        len += lines[i + j].Length;    }    
+	if (startPos == -1)     // 还没有找到文章起始位置，需要判断起始位置    
+	{        
+		if (preTextLen > _limitCount && len > 0)    // 如果上次查找的文本数量超过了限定字数，且当前行数字符数不为0，则认为是开始位置        
+		{            
+			// 查找文章起始位置, 如果向上查找，发现2行连续的空行则认为是头部            
+			int emptyCount = 0;            
+			for (int j = i - 1; j > 0; j--)            
+			{                
+				if (String.IsNullOrEmpty(lines[j]))                
+					emptyCount++;              
+				else
+					emptyCount = 0;              
+				if (emptyCount == _headEmptyLines)                
+				{                    
+					startPos = j + _headEmptyLines;                    
+					break;                
+				}            
+			}            
+			// 如果没有定位到文章头，则以当前查找位置作为文章头            
+			if (startPos == -1)            
+				startPos = i;   // 填充发现的文章起始部分            
+			for (int j = startPos; j <= i; j++)            
+				sb.Append(lines[j]);   
+		}    
+	}    
+	else    
+	{        
+		if (len <= _endLimitCharCount && preTextLen < _endLimitCharCount)    // 当前长度为0，且上一个长度也为0，则认为已经结束        
+		{            
+			if (!_appendMode)
+				break;            
+			startPos = -1;        
+		}        
+		sb.Append(lines[i]);    
+	}    
+	preTextLen = len;
+}

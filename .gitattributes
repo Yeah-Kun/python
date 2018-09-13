@@ -1,1 +1,4 @@
 *.tfrecords filter=lfs diff=lfs merge=lfs -text
+DeepLearning/Verification_code_identification/model/new_crack_captcha.model-3000.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
+DeepLearning/Verification_code_identification/tmp/events.out.tfevents.1527043331.DESKTOP-6RNLI2A filter=lfs diff=lfs merge=lfs -text
+DeepLearning/Verification_code_identification/model/crack_captcha.model-6000.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text

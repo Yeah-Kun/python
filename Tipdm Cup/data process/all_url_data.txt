@@ -1,0 +1,316 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>提示信息 -  36行南阳社区 -  Powered by Discuz!</title>
+<meta content="" name="keywords"/>
+<meta content=",36行南阳社区" name="description"/>
+<meta content="Discuz! X3.2" name="generator"/>
+<meta content="Discuz! Team and Comsenz UI Team" name="author"/>
+<meta content="2001-2013 Comsenz Inc." name="copyright"/>
+<meta content="True" name="MSSmartTagsPreventParsing"/>
+<meta content="Yes" http-equiv="MSThemeCompatible"/>
+<base href="http://36.01ny.cn/"/><link href="data/cache/style_1_common.css?HRo" rel="stylesheet" type="text/css"/><link href="data/cache/style_1_forum_viewthread.css?HRo" rel="stylesheet" type="text/css"/><script type="text/javascript">var STYLEID = '1', STATICURL = 'static/', IMGDIR = 'static/image/common', VERHASH = 'HRo', charset = 'gbk', discuz_uid = '0', cookiepre = 'QIhZ_0f98_', cookiedomain = '.01ny.cn', cookiepath = '/', showusercard = '0', attackevasive = '0', disallowfloat = 'newthread|reply|viewratings|viewwarning|viewthreadmod|viewvote|tradeorder|activity|debate|nav|usergroups|task', creditnotice = '1|积分|点,2|魅力|点,3|金钱|￥,4|威望|点,5|金币|￥,6|首页推荐次数|', defaultstyle = '', REPORTURL = 'aHR0cDovLzM2LjAxbnkuY24vdGhyZWFkLTQ1NTI0NDctMS0xLmh0bWw=', SITEURL = 'http://36.01ny.cn/', JSPATH = 'static/js/', CSSPATH = 'data/cache/style_', DYNAMICURL = '';</script>
+<script src="static/js/common.js?HRo" type="text/javascript"></script>
+<meta content="36行南阳社区" name="application-name"/>
+<meta content="36行南阳社区" name="msapplication-tooltip"/>
+<meta content="name=南阳网;action-uri=http://36.01ny.cn/portal.php;icon-uri=http://36.01ny.cn/static/image/common/portal.ico" name="msapplication-task"/><meta content="name=36行南阳社区;action-uri=http://36.01ny.cn/forum.php;icon-uri=http://36.01ny.cn/static/image/common/bbs.ico" name="msapplication-task"/>
+<meta content="name=家园;action-uri=http://36.01ny.cn/home.php;icon-uri=http://36.01ny.cn/static/image/common/home.ico" name="msapplication-task"/><link href="http://36.01ny.cn/archiver/" rel="archives" title="36行南阳社区"/>
+<script src="static/js/forum.js?HRo" type="text/javascript"></script>
+</head>
+<body class="pg_viewthread" id="nv_forum" onkeydown="if(event.keyCode==27) return false;">
+<div id="append_parent"></div><div id="ajaxwaitid"></div>
+<div class="cl" id="toptb">
+<div class="wp">
+<div class="z"><a href="javascript:;" onclick="setHomepage('http://36.01ny.cn/');">设为首页</a><a href="http://36.01ny.cn/" onclick="addFavorite(this.href, '36行南阳社区');return false;">收藏本站</a><script type="text/javascript">var _speedMark = new Date();</script></div>
+<div class="y">
+<a class="switchblind" href="javascript:;" id="switchblind" onclick="toggleBlind(this)" title="开启辅助访问">开启辅助访问</a>
+</div>
+</div>
+</div>
+<div class="p_pop blk" id="qmenu_menu" style="display: none;">
+<div class="ptm pbw hm">
+请 <a class="xi2" href="javascript:;" onclick="lsSubmit()"><strong>登录</strong></a> 后使用快捷导航<br/>没有帐号？<a class="xi2 xw1" href="member.php?mod=register">我要注册</a>
+</div>
+<div class="btda" id="fjump_menu"></div></div><div id="hd">
+<div class="wp">
+<div class="hdc cl"><h2><a href="http://36.01ny.cn/" title="36行南阳社区"><img alt="36行南阳社区" border="0" src="static/image/common/logo.png"/></a></h2><script src="static/js/logging.js?HRo" type="text/javascript"></script>
+<form action="member.php?mod=logging&amp;action=login&amp;loginsubmit=yes&amp;infloat=yes&amp;lssubmit=yes" autocomplete="off" id="lsform" method="post" onsubmit="return lsSubmit();">
+<div class="fastlg cl">
+<span id="return_ls" style="display:none"></span>
+<div class="y pns">
+<table cellpadding="0" cellspacing="0">
+<tr>
+<td><label for="ls_username">帐号</label></td>
+<td><input class="px vm xg1" id="ls_username" name="username" onblur="if(this.value == ''){this.value = '用户名/Email';this.className = 'px vm xg1';}" onfocus="if(this.value == '用户名/Email'){this.value = '';this.className = 'px vm';}" tabindex="901" type="text" value="用户名/Email"/></td>
+<td class="fastlg_l"><label for="ls_cookietime"><input class="pc" id="ls_cookietime" name="cookietime" tabindex="903" type="checkbox" value="2592000"/>自动登录</label></td>
+<td> <a href="javascript:;" onclick="showWindow('login', 'member.php?mod=logging&amp;action=login&amp;viewlostpw=1')">找回密码</a></td>
+</tr>
+<tr>
+<td><label for="ls_password">密码</label></td>
+<td><input autocomplete="off" class="px vm" id="ls_password" name="password" tabindex="902" type="password"/></td>
+<td class="fastlg_l"><button class="pn vm" style="width: 75px;" tabindex="904" type="submit"><em>登录</em></button></td>
+<td> <a class="xi2 xw1" href="member.php?mod=register">我要注册</a></td>
+</tr>
+</table>
+<input name="quickforward" type="hidden" value="yes"/>
+<input name="handlekey" type="hidden" value="ls"/>
+</div>
+</div>
+</form>
+</div>
+<div id="nv">
+<a href="javascript:;" id="qmenu" onmouseover="delayShow(this, function () {showMenu({'ctrlid':'qmenu','pos':'34!','ctrlclass':'a','duration':2});showForummenu(0);})">快捷导航</a>
+<ul><li id="mn_P75" onmouseover="navShow('P75')"><a hidefocus="true" href="http://36.01ny.cn/portal.php?mod=list&amp;catid=75">网站动态</a></li><li id="mn_Na878"><a hidefocus="true" href="plugin.php?id=cis_weixin">微论坛</a></li><li class="a" id="mn_forum"><a hidefocus="true" href="http://36.01ny.cn/forum.php" title="BBS">36行南阳社区<span>BBS</span></a></li><li id="mn_P133"><a hidefocus="true" href="http://36.01ny.cn/portal.php?mod=list&amp;catid=133">城市通</a></li><li id="mn_N3e06"><a hidefocus="true" href="http://sy.01ny.cn" style="color: red">摄影</a></li><li id="mn_Ncf7b"><a hidefocus="true" href="http://jy.01ny.cn">教育</a></li><li id="mn_N0bae"><a hidefocus="true" href="http://hb.01ny.cn">婚博</a></li><li id="mn_N4b3c"><a hidefocus="true" href="http://h.01ny.cn">健康</a></li><li id="mn_N7d18"><a hidefocus="true" href="http://zx.01ny.cn">旅游</a></li><li id="mn_Na379"><a hidefocus="true" href="http://che.01ny.cn" style="font-weight: bold;color: red">汽车</a></li><li id="mn_N12a7"><a hidefocus="true" href="misc.php?mod=ranklist" title="Ranklist">排行榜<span>Ranklist</span></a></li></ul>
+</div>
+<ul class="p_pop h_pop" id="plugin_menu" style="display: none"> <li><a href="plugin.php?id=dsu_paulsign:sign" id="mn_plink_sign">每日签到</a></li>
+</ul>
+<div class="p_pop h_pop" id="mn_userapp_menu" style="display: none"></div><div class="cl" id="mu">
+</div><div class="scbar_narrow cl" id="scbar">
+<form action="search.php?searchsubmit=yes" autocomplete="off" id="scbar_form" method="post" onsubmit="searchFocus($('scbar_txt'))" target="_blank">
+<input id="scbar_mod" name="mod" type="hidden" value="search"/>
+<input name="formhash" type="hidden" value="2ee1a029"/>
+<input name="srchtype" type="hidden" value="title"/>
+<input name="srhfid" type="hidden" value="0"/>
+<input name="srhlocality" type="hidden" value="forum::viewthread"/>
+<table cellpadding="0" cellspacing="0">
+<tr>
+<td class="scbar_icon_td"></td>
+<td class="scbar_txt_td"><input autocomplete="off" id="scbar_txt" name="srchtxt" speech="" type="text" value="请输入搜索内容" x-webkit-speech=""/></td>
+<td class="scbar_type_td"><a class="xg1" hidefocus="true" href="javascript:;" id="scbar_type" onclick="showMenu(this.id)">搜索</a></td>
+<td class="scbar_btn_td"><button class="pn pnc" id="scbar_btn" name="searchsubmit" sc="1" type="submit" value="true"><strong class="xi2">搜索</strong></button></td>
+<td class="scbar_hot_td">
+<div id="scbar_hot">
+<strong class="xw1">热搜: </strong>
+<a class="xi2" href="search.php?mod=forum&amp;srchtxt=%CC%C6%BA%D3&amp;formhash=2ee1a029&amp;searchsubmit=true&amp;source=hotsearch" sc="1" target="_blank">唐河</a>
+<a class="xi2" href="search.php?mod=forum&amp;srchtxt=%D1%C5%B1%B4%C5%B5%C9%AF&amp;formhash=2ee1a029&amp;searchsubmit=true&amp;source=hotsearch" sc="1" target="_blank">雅贝诺莎</a>
+<a class="xi2" href="search.php?mod=forum&amp;srchtxt=%B9%C2%B9%DD%BA%AE%B4%B0&amp;formhash=2ee1a029&amp;searchsubmit=true&amp;source=hotsearch" sc="1" target="_blank">孤馆寒窗</a>
+<a class="xi2" href="search.php?mod=forum&amp;srchtxt=%B5%CB%D6%DD%C3%C0%C5%AE&amp;formhash=2ee1a029&amp;searchsubmit=true&amp;source=hotsearch" sc="1" target="_blank">邓州美女</a>
+<a class="xi2" href="search.php?mod=forum&amp;srchtxt=%C4%CF%D1%F4%C0%ED%B9%A4&amp;formhash=2ee1a029&amp;searchsubmit=true&amp;source=hotsearch" sc="1" target="_blank">南阳理工</a>
+<a class="xi2" href="search.php?mod=forum&amp;srchtxt=%D0%CE%CF%F3%B4%F3%CA%B9&amp;formhash=2ee1a029&amp;searchsubmit=true&amp;source=hotsearch" sc="1" target="_blank">形象大使</a>
+<a class="xi2" href="search.php?mod=forum&amp;srchtxt=%BF%AA%D2%B5&amp;formhash=2ee1a029&amp;searchsubmit=true&amp;source=hotsearch" sc="1" target="_blank">开业</a>
+<a class="xi2" href="search.php?mod=forum&amp;srchtxt=%CA%D3%C6%B5&amp;formhash=2ee1a029&amp;searchsubmit=true&amp;source=hotsearch" sc="1" target="_blank">视频</a>
+<a class="xi2" href="search.php?mod=forum&amp;srchtxt=%C0%CF%D5%D5%C6%AC&amp;formhash=2ee1a029&amp;searchsubmit=true&amp;source=hotsearch" sc="1" target="_blank">老照片</a>
+<a class="xi2" href="search.php?mod=forum&amp;srchtxt=%C8%ED%BF%C7&amp;formhash=2ee1a029&amp;searchsubmit=true&amp;source=hotsearch" sc="1" target="_blank">软壳</a>
+<a class="xi2" href="search.php?mod=forum&amp;srchtxt=%E8%A4%D9%A4&amp;formhash=2ee1a029&amp;searchsubmit=true&amp;source=hotsearch" sc="1" target="_blank">瑜伽</a>
+<a class="xi2" href="search.php?mod=forum&amp;srchtxt=%C4%CF%D1%F4%CC%D2%CA%F7%C3%E7&amp;formhash=2ee1a029&amp;searchsubmit=true&amp;source=hotsearch" sc="1" target="_blank">南阳桃树苗</a>
+<a class="xi2" href="search.php?mod=forum&amp;srchtxt=%B0%E6%D6%F7&amp;formhash=2ee1a029&amp;searchsubmit=true&amp;source=hotsearch" sc="1" target="_blank">版主</a>
+<a class="xi2" href="search.php?mod=forum&amp;srchtxt=%C8%D1%C9%EF%CE%C6&amp;formhash=2ee1a029&amp;searchsubmit=true&amp;source=hotsearch" sc="1" target="_blank">妊娠纹</a>
+<a class="xi2" href="search.php?mod=forum&amp;srchtxt=%BF%EC%C0%D6%BD%E3%BD%E3&amp;formhash=2ee1a029&amp;searchsubmit=true&amp;source=hotsearch" sc="1" target="_blank">快乐姐姐</a>
+<a class="xi2" href="search.php?mod=forum&amp;srchtxt=%C3%EE%BB%DB&amp;formhash=2ee1a029&amp;searchsubmit=true&amp;source=hotsearch" sc="1" target="_blank">妙慧</a>
+<a class="xi2" href="search.php?mod=forum&amp;srchtxt=%BE%AF%B2%EC&amp;formhash=2ee1a029&amp;searchsubmit=true&amp;source=hotsearch" sc="1" target="_blank">警察</a>
+<a class="xi2" href="search.php?mod=forum&amp;srchtxt=%B5%CB%D6%DD%B0%D9%D0%D5%CD%F8&amp;formhash=2ee1a029&amp;searchsubmit=true&amp;source=hotsearch" sc="1" target="_blank">邓州百姓网</a>
+<a class="xi2" href="search.php?mod=forum&amp;srchtxt=%B0%C5%C0%D9&amp;formhash=2ee1a029&amp;searchsubmit=true&amp;source=hotsearch" sc="1" target="_blank">芭蕾</a>
+<a class="xi2" href="search.php?mod=forum&amp;srchtxt=%B0%E6%D6%F7%B4%F3%BB%E1&amp;formhash=2ee1a029&amp;searchsubmit=true&amp;source=hotsearch" sc="1" target="_blank">版主大会</a>
+</div>
+</td>
+</tr>
+</table>
+</form>
+</div>
+<ul class="p_pop" id="scbar_type_menu" style="display: none;"><li><a class="curtype" href="javascript:;" rel="forum">帖子</a></li><li><a href="javascript:;" rel="blog">日志</a></li><li><a href="javascript:;" rel="album">相册</a></li><li><a href="javascript:;" rel="user">用户</a></li></ul>
+<script type="text/javascript">
+initSearchmenu('scbar', '');
+</script>
+</div>
+</div>
+<div class="wp" id="wp">
+<div class="wp cl w" id="ct">
+<div class="nfl">
+<div class="f_c altw">
+<div class="alert_error" id="messagetext">
+<p>抱歉，指定的主题不存在或已被删除或正在被审核</p>
+<script type="text/javascript">
+if(history.length > (BROWSER.ie ? 0 : 1)) {
+document.write('<p class="alert_btnleft"><a href="javascript:history.back()">[ 点击这里返回上一页 ]</a></p>');
+} else {
+document.write('<p class="alert_btnleft"><a href="./">[ 36行南阳社区 首页 ]</a></p>');
+}
+</script>
+</div>
+</div>
+</div>
+</div> </div>
+<div class="wp cl" id="ft">
+<div class="y" id="flk">
+<p>
+<a href="http://news.01ny.cn/about/hr/">人才招聘</a><span class="pipe">|</span><a href="http://36.01ny.cn/forum.php?mod=misc&amp;action=showdarkroom">小黑屋</a><span class="pipe">|</span><a href="http://36.01ny.cn/forum.php?mobile=yes">手机版</a><span class="pipe">|</span><strong><a href="http://36.01ny.cn/" target="_blank">南阳网</a></strong>
+( <a href="http://www.miitbeian.gov.cn/" target="_blank">豫ICP备05017472号</a> )  <span id="tcss"></span><script charset="utf-8" src="http://tcss.qq.com/ping.js?v=1HRo" type="text/javascript"></script><script reload="1" type="text/javascript">pgvMain({"discuzParams":{"r2":"1468914","ui":0,"rt":"forum","md":"viewthread","pn":1,"qq":"000","logo":11},"extraParams":""});</script></p>
+<p class="xs0">
+GMT+8, 2017-4-9 14:48<span id="debuginfo">
+</span>
+</p>
+</div>
+<div id="frt">
+<p>Powered by <strong><a href="http://www.discuz.net" target="_blank">Discuz!</a></strong> <em>X3.2</em></p>
+<p class="xs0">© 2001-2013 <a href="http://www.comsenz.com" target="_blank">Comsenz Inc.</a></p>
+</div></div>
+<script src="home.php?mod=misc&amp;ac=sendmail&amp;rand=1491720488" type="text/javascript"></script>
+<div id="scrolltop">
+<span hidefocus="true"><a class="scrolltopa" onclick="window.scrollTo('0','0')" title="返回顶部"><b>返回顶部</b></a></span>
+</div>
+<script type="text/javascript">_attachEvent(window, 'scroll', function () { showTopLink(); });checkBlind();</script>
+<div id="discuz_tips" style="display:none;"></div>
+<script type="text/javascript">
+				var tipsinfo = '1468914|X3.2|0.6||0||0|7|1491720488|d115107d49753a707a7e9106dbb74639|2';
+			</script>
+<script charset="UTF-8" src="http://discuz.gtimg.cn/cloud/scripts/discuz_tips.js?v=1" type="text/javascript"></script></body>
+</html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>提示信息 -  36行南阳社区 -  Powered by Discuz!</title>
+<meta content="" name="keywords"/>
+<meta content=",36行南阳社区" name="description"/>
+<meta content="Discuz! X3.2" name="generator"/>
+<meta content="Discuz! Team and Comsenz UI Team" name="author"/>
+<meta content="2001-2013 Comsenz Inc." name="copyright"/>
+<meta content="True" name="MSSmartTagsPreventParsing"/>
+<meta content="Yes" http-equiv="MSThemeCompatible"/>
+<base href="http://36.01ny.cn/"/><link href="data/cache/style_1_common.css?HRo" rel="stylesheet" type="text/css"/><link href="data/cache/style_1_forum_viewthread.css?HRo" rel="stylesheet" type="text/css"/><script type="text/javascript">var STYLEID = '1', STATICURL = 'static/', IMGDIR = 'static/image/common', VERHASH = 'HRo', charset = 'gbk', discuz_uid = '0', cookiepre = 'QIhZ_0f98_', cookiedomain = '.01ny.cn', cookiepath = '/', showusercard = '0', attackevasive = '0', disallowfloat = 'newthread|reply|viewratings|viewwarning|viewthreadmod|viewvote|tradeorder|activity|debate|nav|usergroups|task', creditnotice = '1|积分|点,2|魅力|点,3|金钱|￥,4|威望|点,5|金币|￥,6|首页推荐次数|', defaultstyle = '', REPORTURL = 'aHR0cDovLzM2LjAxbnkuY24vdGhyZWFkLTQ1NTI0NDctMS0xLmh0bWw=', SITEURL = 'http://36.01ny.cn/', JSPATH = 'static/js/', CSSPATH = 'data/cache/style_', DYNAMICURL = '';</script>
+<script src="static/js/common.js?HRo" type="text/javascript"></script>
+<meta content="36行南阳社区" name="application-name"/>
+<meta content="36行南阳社区" name="msapplication-tooltip"/>
+<meta content="name=南阳网;action-uri=http://36.01ny.cn/portal.php;icon-uri=http://36.01ny.cn/static/image/common/portal.ico" name="msapplication-task"/><meta content="name=36行南阳社区;action-uri=http://36.01ny.cn/forum.php;icon-uri=http://36.01ny.cn/static/image/common/bbs.ico" name="msapplication-task"/>
+<meta content="name=家园;action-uri=http://36.01ny.cn/home.php;icon-uri=http://36.01ny.cn/static/image/common/home.ico" name="msapplication-task"/><link href="http://36.01ny.cn/archiver/" rel="archives" title="36行南阳社区"/>
+<script src="static/js/forum.js?HRo" type="text/javascript"></script>
+</head>
+<body class="pg_viewthread" id="nv_forum" onkeydown="if(event.keyCode==27) return false;">
+<div id="append_parent"></div><div id="ajaxwaitid"></div>
+<div class="cl" id="toptb">
+<div class="wp">
+<div class="z"><a href="javascript:;" onclick="setHomepage('http://36.01ny.cn/');">设为首页</a><a href="http://36.01ny.cn/" onclick="addFavorite(this.href, '36行南阳社区');return false;">收藏本站</a><script type="text/javascript">var _speedMark = new Date();</script></div>
+<div class="y">
+<a class="switchblind" href="javascript:;" id="switchblind" onclick="toggleBlind(this)" title="开启辅助访问">开启辅助访问</a>
+</div>
+</div>
+</div>
+<div class="p_pop blk" id="qmenu_menu" style="display: none;">
+<div class="ptm pbw hm">
+请 <a class="xi2" href="javascript:;" onclick="lsSubmit()"><strong>登录</strong></a> 后使用快捷导航<br/>没有帐号？<a class="xi2 xw1" href="member.php?mod=register">我要注册</a>
+</div>
+<div class="btda" id="fjump_menu"></div></div><div id="hd">
+<div class="wp">
+<div class="hdc cl"><h2><a href="http://36.01ny.cn/" title="36行南阳社区"><img alt="36行南阳社区" border="0" src="static/image/common/logo.png"/></a></h2><script src="static/js/logging.js?HRo" type="text/javascript"></script>
+<form action="member.php?mod=logging&amp;action=login&amp;loginsubmit=yes&amp;infloat=yes&amp;lssubmit=yes" autocomplete="off" id="lsform" method="post" onsubmit="return lsSubmit();">
+<div class="fastlg cl">
+<span id="return_ls" style="display:none"></span>
+<div class="y pns">
+<table cellpadding="0" cellspacing="0">
+<tr>
+<td><label for="ls_username">帐号</label></td>
+<td><input class="px vm xg1" id="ls_username" name="username" onblur="if(this.value == ''){this.value = '用户名/Email';this.className = 'px vm xg1';}" onfocus="if(this.value == '用户名/Email'){this.value = '';this.className = 'px vm';}" tabindex="901" type="text" value="用户名/Email"/></td>
+<td class="fastlg_l"><label for="ls_cookietime"><input class="pc" id="ls_cookietime" name="cookietime" tabindex="903" type="checkbox" value="2592000"/>自动登录</label></td>
+<td> <a href="javascript:;" onclick="showWindow('login', 'member.php?mod=logging&amp;action=login&amp;viewlostpw=1')">找回密码</a></td>
+</tr>
+<tr>
+<td><label for="ls_password">密码</label></td>
+<td><input autocomplete="off" class="px vm" id="ls_password" name="password" tabindex="902" type="password"/></td>
+<td class="fastlg_l"><button class="pn vm" style="width: 75px;" tabindex="904" type="submit"><em>登录</em></button></td>
+<td> <a class="xi2 xw1" href="member.php?mod=register">我要注册</a></td>
+</tr>
+</table>
+<input name="quickforward" type="hidden" value="yes"/>
+<input name="handlekey" type="hidden" value="ls"/>
+</div>
+</div>
+</form>
+</div>
+<div id="nv">
+<a href="javascript:;" id="qmenu" onmouseover="delayShow(this, function () {showMenu({'ctrlid':'qmenu','pos':'34!','ctrlclass':'a','duration':2});showForummenu(0);})">快捷导航</a>
+<ul><li id="mn_P75" onmouseover="navShow('P75')"><a hidefocus="true" href="http://36.01ny.cn/portal.php?mod=list&amp;catid=75">网站动态</a></li><li id="mn_Na878"><a hidefocus="true" href="plugin.php?id=cis_weixin">微论坛</a></li><li class="a" id="mn_forum"><a hidefocus="true" href="http://36.01ny.cn/forum.php" title="BBS">36行南阳社区<span>BBS</span></a></li><li id="mn_P133"><a hidefocus="true" href="http://36.01ny.cn/portal.php?mod=list&amp;catid=133">城市通</a></li><li id="mn_N3e06"><a hidefocus="true" href="http://sy.01ny.cn" style="color: red">摄影</a></li><li id="mn_Ncf7b"><a hidefocus="true" href="http://jy.01ny.cn">教育</a></li><li id="mn_N0bae"><a hidefocus="true" href="http://hb.01ny.cn">婚博</a></li><li id="mn_N4b3c"><a hidefocus="true" href="http://h.01ny.cn">健康</a></li><li id="mn_N7d18"><a hidefocus="true" href="http://zx.01ny.cn">旅游</a></li><li id="mn_Na379"><a hidefocus="true" href="http://che.01ny.cn" style="font-weight: bold;color: red">汽车</a></li><li id="mn_N12a7"><a hidefocus="true" href="misc.php?mod=ranklist" title="Ranklist">排行榜<span>Ranklist</span></a></li></ul>
+</div>
+<ul class="p_pop h_pop" id="plugin_menu" style="display: none"> <li><a href="plugin.php?id=dsu_paulsign:sign" id="mn_plink_sign">每日签到</a></li>
+</ul>
+<div class="p_pop h_pop" id="mn_userapp_menu" style="display: none"></div><div class="cl" id="mu">
+</div><div class="scbar_narrow cl" id="scbar">
+<form action="search.php?searchsubmit=yes" autocomplete="off" id="scbar_form" method="post" onsubmit="searchFocus($('scbar_txt'))" target="_blank">
+<input id="scbar_mod" name="mod" type="hidden" value="search"/>
+<input name="formhash" type="hidden" value="d7e09448"/>
+<input name="srchtype" type="hidden" value="title"/>
+<input name="srhfid" type="hidden" value="0"/>
+<input name="srhlocality" type="hidden" value="forum::viewthread"/>
+<table cellpadding="0" cellspacing="0">
+<tr>
+<td class="scbar_icon_td"></td>
+<td class="scbar_txt_td"><input autocomplete="off" id="scbar_txt" name="srchtxt" speech="" type="text" value="请输入搜索内容" x-webkit-speech=""/></td>
+<td class="scbar_type_td"><a class="xg1" hidefocus="true" href="javascript:;" id="scbar_type" onclick="showMenu(this.id)">搜索</a></td>
+<td class="scbar_btn_td"><button class="pn pnc" id="scbar_btn" name="searchsubmit" sc="1" type="submit" value="true"><strong class="xi2">搜索</strong></button></td>
+<td class="scbar_hot_td">
+<div id="scbar_hot">
+<strong class="xw1">热搜: </strong>
+<a class="xi2" href="search.php?mod=forum&amp;srchtxt=%CC%C6%BA%D3&amp;formhash=d7e09448&amp;searchsubmit=true&amp;source=hotsearch" sc="1" target="_blank">唐河</a>
+<a class="xi2" href="search.php?mod=forum&amp;srchtxt=%D1%C5%B1%B4%C5%B5%C9%AF&amp;formhash=d7e09448&amp;searchsubmit=true&amp;source=hotsearch" sc="1" target="_blank">雅贝诺莎</a>
+<a class="xi2" href="search.php?mod=forum&amp;srchtxt=%B9%C2%B9%DD%BA%AE%B4%B0&amp;formhash=d7e09448&amp;searchsubmit=true&amp;source=hotsearch" sc="1" target="_blank">孤馆寒窗</a>
+<a class="xi2" href="search.php?mod=forum&amp;srchtxt=%B5%CB%D6%DD%C3%C0%C5%AE&amp;formhash=d7e09448&amp;searchsubmit=true&amp;source=hotsearch" sc="1" target="_blank">邓州美女</a>
+<a class="xi2" href="search.php?mod=forum&amp;srchtxt=%C4%CF%D1%F4%C0%ED%B9%A4&amp;formhash=d7e09448&amp;searchsubmit=true&amp;source=hotsearch" sc="1" target="_blank">南阳理工</a>
+<a class="xi2" href="search.php?mod=forum&amp;srchtxt=%D0%CE%CF%F3%B4%F3%CA%B9&amp;formhash=d7e09448&amp;searchsubmit=true&amp;source=hotsearch" sc="1" target="_blank">形象大使</a>
+<a class="xi2" href="search.php?mod=forum&amp;srchtxt=%BF%AA%D2%B5&amp;formhash=d7e09448&amp;searchsubmit=true&amp;source=hotsearch" sc="1" target="_blank">开业</a>
+<a class="xi2" href="search.php?mod=forum&amp;srchtxt=%CA%D3%C6%B5&amp;formhash=d7e09448&amp;searchsubmit=true&amp;source=hotsearch" sc="1" target="_blank">视频</a>
+<a class="xi2" href="search.php?mod=forum&amp;srchtxt=%C0%CF%D5%D5%C6%AC&amp;formhash=d7e09448&amp;searchsubmit=true&amp;source=hotsearch" sc="1" target="_blank">老照片</a>
+<a class="xi2" href="search.php?mod=forum&amp;srchtxt=%C8%ED%BF%C7&amp;formhash=d7e09448&amp;searchsubmit=true&amp;source=hotsearch" sc="1" target="_blank">软壳</a>
+<a class="xi2" href="search.php?mod=forum&amp;srchtxt=%E8%A4%D9%A4&amp;formhash=d7e09448&amp;searchsubmit=true&amp;source=hotsearch" sc="1" target="_blank">瑜伽</a>
+<a class="xi2" href="search.php?mod=forum&amp;srchtxt=%C4%CF%D1%F4%CC%D2%CA%F7%C3%E7&amp;formhash=d7e09448&amp;searchsubmit=true&amp;source=hotsearch" sc="1" target="_blank">南阳桃树苗</a>
+<a class="xi2" href="search.php?mod=forum&amp;srchtxt=%B0%E6%D6%F7&amp;formhash=d7e09448&amp;searchsubmit=true&amp;source=hotsearch" sc="1" target="_blank">版主</a>
+<a class="xi2" href="search.php?mod=forum&amp;srchtxt=%C8%D1%C9%EF%CE%C6&amp;formhash=d7e09448&amp;searchsubmit=true&amp;source=hotsearch" sc="1" target="_blank">妊娠纹</a>
+<a class="xi2" href="search.php?mod=forum&amp;srchtxt=%BF%EC%C0%D6%BD%E3%BD%E3&amp;formhash=d7e09448&amp;searchsubmit=true&amp;source=hotsearch" sc="1" target="_blank">快乐姐姐</a>
+<a class="xi2" href="search.php?mod=forum&amp;srchtxt=%C3%EE%BB%DB&amp;formhash=d7e09448&amp;searchsubmit=true&amp;source=hotsearch" sc="1" target="_blank">妙慧</a>
+<a class="xi2" href="search.php?mod=forum&amp;srchtxt=%BE%AF%B2%EC&amp;formhash=d7e09448&amp;searchsubmit=true&amp;source=hotsearch" sc="1" target="_blank">警察</a>
+<a class="xi2" href="search.php?mod=forum&amp;srchtxt=%B5%CB%D6%DD%B0%D9%D0%D5%CD%F8&amp;formhash=d7e09448&amp;searchsubmit=true&amp;source=hotsearch" sc="1" target="_blank">邓州百姓网</a>
+<a class="xi2" href="search.php?mod=forum&amp;srchtxt=%B0%C5%C0%D9&amp;formhash=d7e09448&amp;searchsubmit=true&amp;source=hotsearch" sc="1" target="_blank">芭蕾</a>
+<a class="xi2" href="search.php?mod=forum&amp;srchtxt=%B0%E6%D6%F7%B4%F3%BB%E1&amp;formhash=d7e09448&amp;searchsubmit=true&amp;source=hotsearch" sc="1" target="_blank">版主大会</a>
+</div>
+</td>
+</tr>
+</table>
+</form>
+</div>
+<ul class="p_pop" id="scbar_type_menu" style="display: none;"><li><a class="curtype" href="javascript:;" rel="forum">帖子</a></li><li><a href="javascript:;" rel="blog">日志</a></li><li><a href="javascript:;" rel="album">相册</a></li><li><a href="javascript:;" rel="user">用户</a></li></ul>
+<script type="text/javascript">
+initSearchmenu('scbar', '');
+</script>
+</div>
+</div>
+<div class="wp" id="wp">
+<div class="wp cl w" id="ct">
+<div class="nfl">
+<div class="f_c altw">
+<div class="alert_error" id="messagetext">
+<p>抱歉，指定的主题不存在或已被删除或正在被审核</p>
+<script type="text/javascript">
+if(history.length > (BROWSER.ie ? 0 : 1)) {
+document.write('<p class="alert_btnleft"><a href="javascript:history.back()">[ 点击这里返回上一页 ]</a></p>');
+} else {
+document.write('<p class="alert_btnleft"><a href="./">[ 36行南阳社区 首页 ]</a></p>');
+}
+</script>
+</div>
+</div>
+</div>
+</div> </div>
+<div class="wp cl" id="ft">
+<div class="y" id="flk">
+<p>
+<a href="http://news.01ny.cn/about/hr/">人才招聘</a><span class="pipe">|</span><a href="http://36.01ny.cn/forum.php?mod=misc&amp;action=showdarkroom">小黑屋</a><span class="pipe">|</span><a href="http://36.01ny.cn/forum.php?mobile=yes">手机版</a><span class="pipe">|</span><strong><a href="http://36.01ny.cn/" target="_blank">南阳网</a></strong>
+( <a href="http://www.miitbeian.gov.cn/" target="_blank">豫ICP备05017472号</a> )  <span id="tcss"></span><script charset="utf-8" src="http://tcss.qq.com/ping.js?v=1HRo" type="text/javascript"></script><script reload="1" type="text/javascript">pgvMain({"discuzParams":{"r2":"1468914","ui":0,"rt":"forum","md":"viewthread","pn":1,"qq":"000","logo":11},"extraParams":""});</script></p>
+<p class="xs0">
+GMT+8, 2017-4-9 14:49<span id="debuginfo">
+</span>
+</p>
+</div>
+<div id="frt">
+<p>Powered by <strong><a href="http://www.discuz.net" target="_blank">Discuz!</a></strong> <em>X3.2</em></p>
+<p class="xs0">© 2001-2013 <a href="http://www.comsenz.com" target="_blank">Comsenz Inc.</a></p>
+</div></div>
+<script src="home.php?mod=misc&amp;ac=sendmail&amp;rand=1491720578" type="text/javascript"></script>
+<div id="scrolltop">
+<span hidefocus="true"><a class="scrolltopa" onclick="window.scrollTo('0','0')" title="返回顶部"><b>返回顶部</b></a></span>
+</div>
+<script type="text/javascript">_attachEvent(window, 'scroll', function () { showTopLink(); });checkBlind();</script>
+<div id="discuz_tips" style="display:none;"></div>
+<script type="text/javascript">
+				var tipsinfo = '1468914|X3.2|0.6||0||0|7|1491720578|9bcaf0954ef7b5b4d562d0578f6de4e6|2';
+			</script>
+<script charset="UTF-8" src="http://discuz.gtimg.cn/cloud/scripts/discuz_tips.js?v=1" type="text/javascript"></script></body>
+</html>
