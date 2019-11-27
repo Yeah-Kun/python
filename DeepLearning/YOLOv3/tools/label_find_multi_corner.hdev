@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hdevelop file_version="1.1" halcon_version="17.12">
+<procedure name="main">
+<interface/>
+<body>
+<l>read_shape_model('model.shm',ModelID)</l>
+<l>get_shape_model_contours(ModelContours, ModelID, 1)</l>
+<c></c>
+<l>dev_set_draw('margin')</l>
+<l>list_files('C:/Users/BZL/Desktop/train/data/images','files', FilePaths)</l>
+<l>Colors:=['red','green','blue','yellow']</l>
+<c></c>
+<l>for File:=0 to |FilePaths|-1 by 1</l>
+<l>    read_image (Image, FilePaths[File])</l>
+<l>    find_shape_model(Image, ModelID, -rad(0), rad(360), 0.7, 4, 0.5, 'least_squares', 0, 0.9, Row, Column, Angle, Score)</l>
+<c>    *获得匹配轮廓的位置</c>
+<l>    tuple_split(FilePaths[File], '\\', Substrings)</l>
+<l>    Num:=|Substrings|-1</l>
+<l>    tuple_strlen(Substrings[Num], PathLen)</l>
+<l>    tuple_str_first_n(Substrings[Num],PathLen-4,LabelName)</l>
+<l>    open_file('labels/'+ LabelName + '.txt','output', FileHandle)</l>
+<c>    </c>
+<c>    *绘制</c>
+<l>    for I:=0 to |Score|-1 by 1</l>
+<l>        dev_set_color(Colors[I])</l>
+<c>        </c>
+<l>        vector_angle_to_rigid(0, 0, 0, Row[I], Column[I], Angle[I], HomMat2D)</l>
+<c>        *生成仿射矩阵（前三个为默认中心点）</c>
+<l>        affine_trans_contour_xld(ModelContours, ContoursAffineTrans, HomMat2D)</l>
+<c>        *仿射变换</c>
+<l>        get_contour_xld(ContoursAffineTrans, ContourRow, ContourCol)</l>
+<l>        dev_display(ContoursAffineTrans)</l>
+<l>        LeftX:= ContourCol[485]-35</l>
+<l>        LeftY:= ContourRow[485]-35</l>
+<l>        RightX:= ContourCol[485]+35</l>
+<l>        RightY:= ContourRow[485]+35</l>
+<c>        </c>
+<c></c>
+<l>        real_angle := deg(Angle[I])</l>
+<l>        if(real_angle &gt;= 45 and real_angle &lt; 135)</l>
+<l>            gen_rectangle1(Rectangle, LeftY, LeftX, RightY, RightX)</l>
+<l>            dev_display(Rectangle)</l>
+<c>            </c>
+<l>            String:= 'LeftUp' + ' ' + LeftX  + ' ' + LeftY + ' ' + RightX + ' ' + RightY</l>
+<l>            fwrite_string(FileHandle, String)</l>
+<l>            fnew_line(FileHandle)</l>
+<l>        elseif(real_angle &gt;= 135 and real_angle &lt; 225)</l>
+<l>            gen_rectangle1(Rectangle, LeftY, LeftX, RightY, RightX)</l>
+<l>            dev_display(Rectangle)</l>
+<c>            </c>
+<l>            String:= 'LeftBottom' + ' ' + LeftX  + ' ' + LeftY + ' ' + RightX + ' ' + RightY</l>
+<l>            fwrite_string(FileHandle, String)</l>
+<l>            fnew_line(FileHandle)</l>
+<l>        elseif(real_angle &gt;= 225 and real_angle &lt; 315)</l>
+<l>            gen_rectangle1(Rectangle, LeftY, LeftX, RightY, RightX)</l>
+<l>            dev_display(Rectangle)</l>
+<c>            </c>
+<l>            String:= 'RightBottom' + ' ' + LeftX  + ' ' + LeftY + ' ' + RightX + ' ' + RightY</l>
+<l>            fwrite_string(FileHandle, String)</l>
+<l>            fnew_line(FileHandle)</l>
+<l>        else</l>
+<l>            gen_rectangle1(Rectangle, LeftY, LeftX, RightY, RightX)</l>
+<l>            dev_display(Rectangle)</l>
+<c>            </c>
+<l>            String:= 'RightUp' + ' ' + LeftX  + ' ' + LeftY + ' ' + RightX + ' ' + RightY</l>
+<l>            fwrite_string(FileHandle, String)</l>
+<l>            fnew_line(FileHandle)</l>
+<l>        endif</l>
+<c>        </c>
+<c>        </c>
+<l>    endfor</l>
+<c></c>
+<l>    close_file(FileHandle)</l>
+<l>    dump_window_image(ImageDump, 200000)</l>
+<l>    *write_image(ImageDump, 'png', 0, 'labels/'+ LabelName + '_dump.png')</l>
+<c>    </c>
+<l>    wait_seconds(0.01)</l>
+<l>    *stop()</l>
+<c>    *F2重置程序，*F5跑程序</c>
+<c>    </c>
+<l>endfor</l>
+<c></c>
+<c></c>
+<c></c>
+<c></c>
+<c></c>
+<c></c>
+<c></c>
+</body>
+<docu id="main">
+<parameters/>
+</docu>
+</procedure>
+</hdevelop>

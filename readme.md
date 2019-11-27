@@ -1,5 +1,6 @@
 ## python学习历程
 ### 日志 
+- 创建DeepLearning/ModelOptimization，学习模型优化相关内容（2019年11月27日19:54:21）
 - 创建Blender，写Blender的脚本（2019年9月9日15:28）
 - 创建ComputerGraphics，开始尝试图形学（2019年8月28日13:50）
 - 创建GUI，开始设计图形界面（2017年10月1日16:05:52）

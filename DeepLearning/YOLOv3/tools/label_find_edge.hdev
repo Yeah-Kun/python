@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hdevelop file_version="1.1" halcon_version="17.12">
+<procedure name="main">
+<interface/>
+<body>
+<l>read_shape_model('model.shm',ModelID)</l>
+<l>get_shape_model_contours(ModelContours, ModelID, 1)</l>
+<c></c>
+<l>dev_set_draw('margin')</l>
+<l>dev_set_line_width(1)</l>
+<l>dev_update_on()</l>
+<c></c>
+<l>list_files('D:/Company/FloorImageProcessing/floorlog','files', FilePaths)</l>
+<c></c>
+<l>Colors:=['red','green','blue','yellow']</l>
+<c></c>
+<l>for File:=0 to |FilePaths|-1 by 1</l>
+<l>    read_image (Image, FilePaths[File])</l>
+<c>    </c>
+<l>    dev_display(Image)</l>
+<c>    *找模板，row/column/angle, 到底是哪个地方的</c>
+<l>    find_shape_model(Image, ModelID, -rad(0), rad(360), 0.7, 4, 0.5, 'least_squares', 0, 0.9, Row, Column, Angle, Score)</l>
+<c>    </c>
+<l>    tuple_split(FilePaths[File], '\\', PathSubStr)</l>
+<l>    PathStrSubNums := |PathSubStr|</l>
+<l>    tuple_split(PathSubStr[PathStrSubNums-1], '.', ImageNameSubStr)</l>
+<l>    FileName:=ImageNameSubStr[0]</l>
+<l>    open_file('labels/'+ FileName + '.txt','output', FileHandle)</l>
+<c>    </c>
+<c>    *生成一个新的区域对象</c>
+<l>    gen_empty_obj(Regions)</l>
+<l>    for I:=0 to |Score|-1 by 1</l>
+<c>        * 显示边缘颜色</c>
+<l>        dev_set_color(Colors[I])</l>
+<c>        * 构造仿射矩阵</c>
+<l>        vector_angle_to_rigid(0, 0, 0, Row[I], Column[I], Angle[I], HomMat2D)</l>
+<c>        * 仿射变换</c>
+<l>        affine_trans_contour_xld(ModelContours, ContoursAffineTrans, HomMat2D)</l>
+<c>        * </c>
+<l>        get_contour_xld(ContoursAffineTrans, ContourRow, ContourCol)</l>
+<c>        </c>
+<l>        gen_cross_contour_xld(Cross, Row[I], Column[I], 30, 0)</l>
+<c>        </c>
+<l>        real_angle := deg(Angle[I])</l>
+<l>        if(real_angle &gt;= 45 and real_angle &lt; 135)</l>
+<c>            * 构造外接矩形，第一个边长、第二个边长，角点</c>
+<l>            Rows:=[ContourRow[475],ContourRow[550],ContourRow[485]]</l>
+<l>            Cols:=[ContourCol[475],ContourCol[550],ContourCol[485]]</l>
+<c>            </c>
+<l>            gen_region_polygon(Region, Rows, Cols)</l>
+<c>            * 获得外接矩形</c>
+<l>            smallest_rectangle1(Region, Row1, Column1, Row2, Column2)</l>
+<c>            * 生成外接矩形</c>
+<l>            gen_rectangle1(Rectangle, Row1, Column1, Row2, Column2)</l>
+<c>            * 膨胀当前的外接矩形</c>
+<l>            dilation_rectangle1(Rectangle, RegionDilation, 9, 4)</l>
+<c>            * 合并两个矩形（并操作）</c>
+<l>            concat_obj(Regions, RegionDilation, Regions)</l>
+<c>            * 获得膨胀后的矩形的外接矩形</c>
+<l>            smallest_rectangle1(RegionDilation, Row11, Column11, Row21, Column21)</l>
+<c>            </c>
+<l>            String:= 'LeftUp' + ' ' + Column11  + ' ' + Row11 + ' ' + Column21 + ' ' + Row21</l>
+<l>            fwrite_string(FileHandle, String)</l>
+<l>            fnew_line(FileHandle)</l>
+<c>        </c>
+<l>        elseif(real_angle &gt;= 135 and real_angle &lt; 225)</l>
+<c>            * 构造外接矩形，第一个边长、第二个边长，角点</c>
+<l>            Rows:=[ContourRow[475],ContourRow[550],ContourRow[485]]</l>
+<l>            Cols:=[ContourCol[475],ContourCol[550],ContourCol[485]]</l>
+<c>            </c>
+<l>            gen_region_polygon(Region, Rows, Cols)</l>
+<c>            * 获得外接矩形</c>
+<l>            smallest_rectangle1(Region, Row1, Column1, Row2, Column2)</l>
+<c>            * 生成外接矩形</c>
+<l>            gen_rectangle1(Rectangle, Row1, Column1, Row2, Column2)</l>
+<c>            * 膨胀当前的外接矩形</c>
+<l>            dilation_rectangle1(Rectangle, RegionDilation, 9, 4)</l>
+<c>            * 合并两个矩形（并操作）</c>
+<l>            concat_obj(Regions, RegionDilation, Regions)</l>
+<c>            * 获得膨胀后的矩形的外接矩形</c>
+<l>            smallest_rectangle1(RegionDilation, Row11, Column11, Row21, Column21)</l>
+<c>            </c>
+<l>            String:= 'LeftBottom' + ' ' + Column11  + ' ' + Row11 + ' ' + Column21 + ' ' + Row21</l>
+<l>            fwrite_string(FileHandle, String)</l>
+<l>            fnew_line(FileHandle)</l>
+<l>        elseif(real_angle &gt;= 225 and real_angle &lt; 315)</l>
+<c>            * 构造外接矩形，第一个边长、第二个边长，角点</c>
+<l>            Rows:=[ContourRow[475],ContourRow[550],ContourRow[485]]</l>
+<l>            Cols:=[ContourCol[475],ContourCol[550],ContourCol[485]]</l>
+<c>            </c>
+<l>            gen_region_polygon(Region, Rows, Cols)</l>
+<c>            * 获得外接矩形</c>
+<l>            smallest_rectangle1(Region, Row1, Column1, Row2, Column2)</l>
+<c>            * 生成外接矩形</c>
+<l>            gen_rectangle1(Rectangle, Row1, Column1, Row2, Column2)</l>
+<c>            * 膨胀当前的外接矩形</c>
+<l>            dilation_rectangle1(Rectangle, RegionDilation, 9, 4)</l>
+<c>            * 合并两个矩形（并操作）</c>
+<l>            concat_obj(Regions, RegionDilation, Regions)</l>
+<c>            * 获得膨胀后的矩形的外接矩形</c>
+<l>            smallest_rectangle1(RegionDilation, Row11, Column11, Row21, Column21)</l>
+<c>            </c>
+<l>            String:= 'RightBottom' + ' ' + Column11  + ' ' + Row11 + ' ' + Column21 + ' ' + Row21</l>
+<l>            fwrite_string(FileHandle, String)</l>
+<l>            fnew_line(FileHandle)</l>
+<l>        else</l>
+<c>            * 构造外接矩形，第一个边长、第二个边长，角点</c>
+<l>            Rows:=[ContourRow[475],ContourRow[550],ContourRow[485]]</l>
+<l>            Cols:=[ContourCol[475],ContourCol[550],ContourCol[485]]</l>
+<c>            </c>
+<l>            gen_region_polygon(Region, Rows, Cols)</l>
+<c>            * 获得外接矩形</c>
+<l>            smallest_rectangle1(Region, Row1, Column1, Row2, Column2)</l>
+<c>            * 生成外接矩形</c>
+<l>            gen_rectangle1(Rectangle, Row1, Column1, Row2, Column2)</l>
+<c>            * 膨胀当前的外接矩形</c>
+<l>            dilation_rectangle1(Rectangle, RegionDilation, 9, 4)</l>
+<c>            * 合并两个矩形（并操作）</c>
+<l>            concat_obj(Regions, RegionDilation, Regions)</l>
+<c>            * 获得膨胀后的矩形的外接矩形</c>
+<l>            smallest_rectangle1(RegionDilation, Row11, Column11, Row21, Column21)</l>
+<c>            </c>
+<l>            String:= 'RightUp' + ' ' + Column11  + ' ' + Row11 + ' ' + Column21 + ' ' + Row21</l>
+<l>            fwrite_string(FileHandle, String)</l>
+<l>            fnew_line(FileHandle)</l>
+<l>        endif</l>
+<c>        </c>
+<c>        </c>
+<l>    endfor</l>
+<c></c>
+<l>    close_file(FileHandle)</l>
+<l>    dev_display(Regions)</l>
+<l>    dump_window_image(ImageDump, 200000)</l>
+<l>    write_image(ImageDump, 'png', 0, 'labels/'+ FileName + '_dump.png')</l>
+<c>    </c>
+<c></c>
+<c>    </c>
+<l>    *wait_seconds(0.04)</l>
+<l>    *stop()</l>
+<c>    </c>
+<l>endfor</l>
+<c></c>
+<c></c>
+<c></c>
+<c></c>
+<c></c>
+<c></c>
+<c></c>
+</body>
+<docu id="main">
+<parameters/>
+</docu>
+</procedure>
+</hdevelop>

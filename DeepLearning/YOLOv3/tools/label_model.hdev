@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hdevelop file_version="1.1" halcon_version="17.12">
+<procedure name="main">
+<interface/>
+<body>
+<l>read_image (C60Model, 'model.tif')</l>
+<l>gen_rectangle1 (ROI_0, 463, 873, 971, 1381)</l>
+<l>reduce_domain(C60Model, ROI_0, ImageReduced)</l>
+<l>smooth_image(ImageReduced, ImageSmooth, 'deriche2', 0.5)</l>
+<l>edges_sub_pix(ImageSmooth, Edges, 'canny', 1, 20, 40)</l>
+<l>select_obj(Edges, ObjectSelected, 1)</l>
+<l>create_shape_model_xld(ObjectSelected, 'auto', -rad(0),rad(360), 'auto', 'auto', 'use_polarity', 8, ModelID)</l>
+<l>write_shape_model(ModelID, 'model.shm')</l>
+<c></c>
+<c></c>
+<c></c>
+<c></c>
+<c></c>
+<c></c>
+</body>
+<docu id="main">
+<parameters/>
+</docu>
+</procedure>
+</hdevelop>

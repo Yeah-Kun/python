@@ -1,0 +1,26 @@
+<annotation>
+	<folder>temp2</folder>
+	<filename>1534480219.92.jpg</filename>
+	<path>D:\studyINF\AI\YOLOv3\yolo_img3\temp2\1534480219.92.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pen</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>243</xmin>
+			<ymin>255</ymin>
+			<xmax>293</xmax>
+			<ymax>290</ymax>
+		</bndbox>
+	</object>
+</annotation>
