@@ -1,5 +1,8 @@
 ## python学习历程
 ### 日志 
+
+- 创建Crawler，上传爬虫相关代码（2020-6-2 11:52:10）
+
 - 创建DeepLearning/ModelOptimization，学习模型优化相关内容（2019年11月27日19:54:21）
 - 创建Blender，写Blender的脚本（2019年9月9日15:28）
 - 创建ComputerGraphics，开始尝试图形学（2019年8月28日13:50）
